@@ -1,17 +1,97 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png"group-title="WEBMARFINS", CANAL 01
+#EXTVLCOPT:network-caching=100
+https://3.trstream01.xyz/canal2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 02
+#EXTVLCOPT:network-caching=100
+https://5.trstream01.xyz/canal3/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 03
+#EXTVLCOPT:network-caching=100
+https://2.trstream01.xyz/canal4/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04
+#EXTVLCOPT:network-caching=100
+https://5.trstream01.xyz/canal6/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05
+#EXTVLCOPT:network-caching=100
+https://3.trstream01.xyz/canal2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06
+#EXTVLCOPT:network-caching=100
+https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
+#EXTVLCOPT:network-caching=100
+https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", CAPITAL ONE
+#EXTVLCOPT:network-caching=1000
+https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO EVENTO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925000209497.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO VENTO
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694036587/ei/C574ZLvmBKH4xtYPytC4qA8/ip/190.205.231.63/id/Ck8X-NKIwlE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fyFsO9TI0grLgDRtjjnp3k5kwzfempG90RHVNqDviS0OKWOUJq0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN_HSSyI76yttHdxxtM9qb32kdgq1gXC4r0E8qV-zBSmAiAx4e0WeLu2esHh2mbst5BI1U0MNw2NsMWq4-PukltDog%3D%3D/file/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO EVENTO
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693961628/ei/PHn3ZKzyD4eE4QT65ba4AQ/ip/66.23.202.234/id/3ZrZ_pCFfYs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-MopATbh6OS_v6VoMKVYNg-_PSCfuROr8HskjZxKLVrfrvkQAc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKpW39xK7PV067IoP0kt0SpzOqq4L31zXCMhVES00MILAiBVqhx-5OB1zq7O-ZdUGhNO3ikwbSd2a8kMlsEP2mhW-A%3D%3D/file/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO EVENTO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693866354/ei/EgX2ZJSmBejxvPIPtpSQqAs/ip/201.249.25.21/id/AdNiIonnHJU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9fxjccXPtpbWmyUPnIAVnBqg7TUcxBi6uFB-UdcOhlAtasEIyRw8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIlgNzoKdW5vSRwLSo_Fb83U6DqKpwMfPcmBTcCA7CDAAiBS76VOMaFmbdmixkD6NJ4OhqlomN66c1a5mVjMJPpS9w%3D%3D/file/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO EVENTO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693961281/ei/4Xf3ZOrHEomn_9EPhJio4Ag/ip/66.23.202.234/id/Sqtt6-d4eNU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f3R6WLRXrhWuLPVY13WOb3HX0xPZftPSdtNLIJQpDw1CtmoDfO4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfgkcFCjA5ipQr8vZORVvibsmyuYhGL0-eIu9nK5wQBICIEaIaHPZEC40Xv7SB2izxVF7JHhDkEa9JyPw7jowKw4R/file/index.m3u8"},"
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="AMERICANAS", PROXIMO EVENTO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693866744/ei/mAb2ZLHHIcvIkAOO2bLADw/ip/201.249.25.21/id/I9l_8jDONsE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0w4-4011QTXNZtEvYHMgi_yhwZvycyNJCuXOH21jtopukv129Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJSYfsVOVUV7VmIuPqs6w7NQ1SYXss5S3RhVUCp3KiuPAiAzEnzp-RUJUvm55KKF3SmaEO_mc6Jm9NIaMWvKERI23Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg" group-title="Galgos", SIS TV Galgos
+#EXTVLCOPT:network-caching=100
+https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="AMERICANAS", SKY RACING INTERNATIONAL
+#EXTVLCOPT:network-caching=1000
+https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", MONTERRRICO PERU USA
+#EXTVLCOPT:network-caching=1000
+https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=hpfYbEwV1RotoMTS2v6gHKf%2B2qYeC5T8qpa8V8eV6LU%3D
+#EXTINF:-1 tvg-id="" tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png" group-title="AMERICANAS", GALLOPE TV UK USA
+#EXTVLCOPT:network-caching=1000
+https://622388392e06e.streamlock.net/galloptv/gc_galloptv.smil/chunklist_w1951748451_b1464000_sleng_tkZ3JleXZpbGxlZW5kdGltZT0xNjkzOTUyMTYwJmdyZXl2aWxsZXN0YXJ0dGltZT0wJmdyZXl2aWxsZXh0cmFXZWJQYWdlSUQ9c3RldmUmZ3JleXZpbGxlaGFzaD1PbXhSZFFybVRFd2tPRkQyajFvRUJSVUtNR3UwUFZhcHpLak5yNUpCTU1zPQ==.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj" group-title="LATAM", HIDPODROMOS CHILE USA
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=1090519055
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", MLB TV
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.75/play/hls/eyJpdiI6ImsvVDg3R1Q4TTQyRzA2bXgyM1BsckE9PSIsInZhbHVlIjoiZWxmdnFLam43ZDZKQkVFN1JBSG1rdFhmam1BdzNia01QcU9NZ3RrU3lPaHZ4QmxHVEVlb3hFMXpUbGlNdkUrKyIsIm1hYyI6ImI0MjIxZjY4ODRmMzQ4MzY2OTdkZWY3NmZkODhlMWM4M2ExMzExZWVkODhmMTY1OWNmYzk1ZjI4Y2JlMzk0MzgiLCJ0YWciOiIifQ==/1f2498fb-bf28-4815-9aff-5e26eba7f929.m3u8?lvtoken=eyJpdiI6IlduTjV3NUlzdHFhdjEramFlbVZlN2c9PSIsInZhbHVlIjoiN202VW1lWTRKU3l2dWZOSUFKWEVENDdhZlpOWkpTRFhUVVJYT2R2UDI5TDlBcjIxWWtUbzA2NUc3SC8wZWtmaS81Q2hSM005UlZoaGg0VDc2cm5vVlRGb0RWZSt5ZWQ3SnFKUG1xbUtTa3Q0SGhuSDNhT2tISFNTbmI2Y0ZyV2tVRG9rNVc2RTcrQ2drVnIvbkFwYjhtU0JyK3BuU0xtM0wrTTZZMWpWK3JleHYySFA0SHZCeDUvTGZhV3JOV3VoUkc0Kzd1YlFrdm8xUGt6Tm4vNU96dz09IiwibWFjIjoiMTkwOGE0NDMwNzQ1NmM4NzZlZWI3OWM3NzVmMzg2YzI5M2I1MzVhZTI3MTQ3NDRiNDU1NDYwMWM1MDU4YjI4YSIsInRhZyI6IiJ9&r=92a510&rt=d61a6d71734da518aecf4251804dba71
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", IVC DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://68.235.48.211/play/hls/eyJpdiI6IjJBcEFrUXJDSFZ4a3RETDlmNXJrVkE9PSIsInZhbHVlIjoiTTY3RTR1WmpXTDZLVFZHRk83SDZKLzE3UjZuVWtyM08zUy9TRDNpLzl5VFhlTUhvRUQ1Q2FOanpJUmhRN3BqUSIsIm1hYyI6IjQzODY4ODcxMGEyYTc4NzFhZTZhNDhkOTNkNTdmYjU0MGQ1Y2FmOTIwMTk3NzFkMzg1MDc4YTczYzBkNzk0NDAiLCJ0YWciOiIifQ==/f23b5a9e-221a-464f-8598-3a634c686979.m3u8?lvtoken=eyJpdiI6ImxYYVMwUXMvL0hIUDlQQUV6cHppYkE9PSIsInZhbHVlIjoiTFgvUzNXOC9rUmdzRlhnQWg5K1RKYk4yWTB6YmtBSGVRRGRhbFdEaDUyTTIwY3lCZDJxa3B5M1U4ZTYxV01hMzdGWHJwdDFBRFFyOVgzWVJCOSt4MUtSL3UrWHhxNjg1R1p2SlZINXRhbjdXWVFYWXFyT1BmRFJlVjE2TDJMak16SWdFcHJmZkd5cys2MVJhTGovUTQ1K2tySHYrcCtad2cyU3l3VDhiVlJ5MkY2K1hCYTluN2U1VVFrc0hVaG8rZkhJcWNXSkNRRStCcnV4dGx5WmdQUT09IiwibWFjIjoiNjlmOTc0ZGE1MmFkN2VmYmJjNjRlN2RhYzVlYTA5NzRlODJjMGFhZjRjNjJmZmQ0OGZlMGNlMTFhNWY5NDkxNyIsInRhZyI6IiJ9&r=677188&rt=8b88b583274758266193161357e8cfb8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", MLB STRIKE ZONE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.75/play/hls/eyJpdiI6ImZvWXZGU3ZoZXpXZCt4Tm9pWTlPMGc9PSIsInZhbHVlIjoidUtPang0UGt2TGliZkNyZ0hqMlhFZXIrQVJHczlyeG12YkQzV1lkZGxPMm1NVU53VVpnTWZTeWlTRFdKVEFEeSIsIm1hYyI6ImNmNmI1NDBjZDU4Y2I4MjFkM2E3M2NjNmUwZGI2MDhmNTNlNzY0MzY5YTY3YzdhNTM0ZTI5YWFkMDk3OTk3NzAiLCJ0YWciOiIifQ==/5d2766db-7dbd-4e28-b250-06d70ab5f368.m3u8?lvtoken=eyJpdiI6IlRTdklrMGxsWVlyYmh1ZU85MWRGOGc9PSIsInZhbHVlIjoiVmxiajBtQ2o4aXN5dDZvRUU5L0JIL0RQWEVRT2c0REViRlVCQWdNbm1OaEI4alRSTFNMSmZPSUY1b0RCVlQzRTY4Z3NFaS9lNVRmYk0rRVhDbHBGNkJoMURQUTIzaEp2b3RPQ05SSldVLzN1dHUrQU9BZG4yN3Bobm02SHFvZ2hXekp4Y20xc3hhM1VzeWNMenJ2eWZpbHNZNm54b0NZbXVkU1JnZ1JGRzlYbDhTVytMNXRHK0hJV3hoenBTSnRIUnQwRCtXblhENUFJclVrZGVQbGVHQT09IiwibWFjIjoiYjNkMzNiNTUxYTA2MzgxMDkwMDIyMDJmMzcwNmJhZjk2MDg2NWE5YjQxMjVhYmY1MTBlYjFhYzhiMzFhNmE3MiIsInRhZyI6IiJ9&r=7b1fc7&rt=a7857739e4c3b01bd99689965af12f36
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", SPORTSNET USA MLB
+#EXTVLCOPT:network-caching=1000
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/11108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s176-c-k-c0x00ffffff-no-rj" group-title="FOX", COLOMBIA VS VENEZUELA
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s176-c-k-c0x00ffffff-no-rj" group-title="FOX", ARGENTINA VS ECUADOR
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s176-c-k-c0x00ffffff-no-rj" group-title="FOX", PARAGUAY VS PERU
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/194.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEING", BEING SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389710.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="DZN", DZN LIGA ESPAÑOLA HD
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/642098.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="DZN", LIGA ESPAÑOLA OFICIAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="DZN", LIGA ESPAÑOLA JUEGOS HOY
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/675028.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qh7Iywp.png" group-title="DZN", WAPA DEPORTES HD
@@ -20,3 +100,47 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dt73mTV/ZONFU.png" group-title="DZN", ZONA FUTBOL
 #EXTVLCOPT:network-caching=1000
 http://68.235.48.211/play/hls/eyJpdiI6IlZCMmlLN002VXM1RytxSHZzVEhGclE9PSIsInZhbHVlIjoielArMVYxTThkM0F6VWFsbk9TWUpnaGtnQUVqNmM5alA4U3JDak5oc1FISTJXa2NGSXJBcXNTYmgzRWoyaXRZYyIsIm1hYyI6IjkxNmM3ZWM5YTU0ZDZmOTgwZTU5Zjg1Y2ZjM2Y5ZDM0ZDMyN2QzY2RlZDJhOTYwYzIxNjk0ODljMjMxMmNmYjAiLCJ0YWciOiIifQ==/27b3e77a-e2ba-4a67-8667-825758bfbabf.m3u8?lvtoken=eyJpdiI6ImNlUCtLelNqMW5vYnNLKzVmb0FFRmc9PSIsInZhbHVlIjoiNDRabUcvcjVtVU9ON3V0clJxcUJXTm1YSm1JRndZYUFORUtlNVNzYWRoY200MTdlN3Q1UFYxd09UWkpWdUkwTjE4TmsxcUNxN0RldjgxUnJDRXhtZkczb3FzNHNWUWpId0NkUEdtRW91c1FGS3M0YjUxeTFNdTRjOG9YZlJ1WlZ4ZUR2SSs3Q3R6RDZhcHJJdlRqRmRRbENHU1djNTBVUVVxd2NITFMzOWdKZEkyQnlKL0JPZEZweE52UUc5ejVBZTJzZlFpRUs5dS9FNVZhRXcxRjRWQT09IiwibWFjIjoiZmNjMTcyNGQ2MjAwMWY1MGVjYjc4MTEwNmQwNmI0YTBiODNmOTUxMzAyYWYzOTQ4ZmJjYTYwNjc2ZDkzYTE0MSIsInRhZyI6IiJ9&r=a260e9&rt=3a3e051d5961ae69d04fdfe2af8e615f
+#EXTINF:-1 tvg-name="ASTROS" tvg-logo="http://atvpanel.com/posters/1553901748345.png", ASTROS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/982.m3u8
+#EXTINF:-1 tvg-name="ASTRO" tvg-logo="http://atvpanel.com/posters/1553901786295.png", OKLAND
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/984.m3u8
+#EXTINF:-1 tvg-name="ATLANTA" tvg-logo="http://atvpanel.com/posters/1569585671425.png", ATLANTA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/986.m3u8
+#EXTINF:-1 tvg-name="STLOUIS" tvg-logo="http://atvpanel.com/posters/1569585789475.png", STLOUIS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/988.m3u8
+#EXTINF:-1 tvg-name="METS" tvg-logo="http://atvpanel.com/posters/1569586028296.png", METS
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/995.m3u8
+#EXTINF:-1 tvg-name="TAMPABAY" tvg-logo="http://atvpanel.com/posters/1569586354396.png", TAMPA BAY
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1001.m3u8
+#EXTINF:-1 tvg-name="TAMPABAY" tvg-logo="http://atvpanel.com/posters/1569586494325.png", KANSAS CITY
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1005.m3u8
+#EXTINF:-1 tvg-name="NY" tvg-logo="http://atvpanel.com/posters/1569586609298.png", NY
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1008.m3u8
+#EXTINF:-1 tvg-name="PITSBURH" tvg-logo="http://atvpanel.com/posters/1569586189263.png", PITSBURH
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/998.m3u8
+#EXTINF:-1 tvg-name="MIAMI" tvg-logo="http://atvpanel.com/posters/1569585997372.png", MIAMI
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/994.m3u8
+#EXTINF:-1 tvg-name="BALTIMORE" tvg-logo="http://atvpanel.com/posters/1569586103145.png", BALTIMORE
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/997.m3u8

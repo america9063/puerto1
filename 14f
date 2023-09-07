@@ -81,10 +81,10 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/11108/index.m3u8
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/199.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s176-c-k-c0x00ffffff-no-rj" group-title="FOX", ARGENTINA VS ECUADOR
 #EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/206.m3u8
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/200.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s176-c-k-c0x00ffffff-no-rj" group-title="FOX", PARAGUAY VS PERU
 #EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/193.m3u8
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/194.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" group-title="BEING", BEING SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389710.m3u8

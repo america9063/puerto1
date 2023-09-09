@@ -7,7 +7,7 @@ https://3.trstream01.xyz/canal2/stream.m3u8
 https://5.trstream01.xyz/canal3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 03
 #EXTVLCOPT:network-caching=100
-https://2.trstream01.xyz/canal4/stream.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694299090/ei/cp_8ZKbvEbXwvPIPsLulqAo/ip/190.203.61.25/id/ybYT1di6toY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9fzmL_5jNmirWPUNseLtQhku0JZmuPTC-VVKRqp5bBrSSoj4MqQo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO5g03ZlYxNrz0QbaldXLyHw7XJRuyOnSUek_xIZNFzXAiB6adKrC0G4i5G4Q-kP3BqIhTwQR6YdoV4XyvcF6muStA%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04
 #EXTVLCOPT:network-caching=100
 https://5.trstream01.xyz/canal6/stream.m3u8

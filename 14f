@@ -23,9 +23,6 @@ https://shlsakamai3.akamaized.net/hlsorigin/red_mile_hd_fm_771/chunklist.m3u8?st
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
 #EXTVLCOPT:network-caching=100
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.westernotb.com/wp-content/themes/custom-theme/images/logo-large.png" group-title="AMERICANAS", PROXIMO EVENTO
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694295850/ei/ypL8ZOqmGYa9kAPqwbWIAQ/ip/190.203.61.25/id/7O3LBgj2jUU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1w3K5zaoPMNf8nc0YAAtSmIqt5N0zJSMDUKOSRJG9kOjyebwnQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHaZmr_-gT3faFm6txjH8Sa0ji_Awh8_FnKYnJKn7p5ECICAhHoz3uodbzYtjXADptWoibg39XNOAcBpfrffHwPnj/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg" group-title="Galgos", SIS TV Galgos
 #EXTVLCOPT:network-caching=100
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
@@ -50,12 +47,6 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", IVC DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/565948.m3u8
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/642098.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZWzYqeb.
-png" group-title="DZN", LIGA ESPAÑOLA JUEGOS HOY
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/675028.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DZN", LIGA ESPAÑOLA MOVISTAR TV
 #EXTVLCOPT:network-caching=1000
 http://68.235.61.59/play/hls/eyJpdiI6InExZ28rQ2VQN3NzVit0OUdWQ256ZVE9PSIsInZhbHVlIjoicDZETlRGUlMrY1A1S1NrOWYwZHYrKzhJY0JJdjJmOGxhUzJ4b0hVWDFmVUdiOHdiQTQxYmFhLzEzL1NqVnkzayIsIm1hYyI6IjlkYWE1ZTNmZmZhZDdiMWFkM2UzMTg5NTUwM2YzMmZmZDRhNTQ2OTk4OTlkYjg5ZDdlMjY0OTRiYmFlODlhMGEiLCJ0YWciOiIifQ==/f8655164-1beb-4065-8169-7f50e36acbd2.m3u8?lvtoken=eyJpdiI6Ik5jUjdvM3UrTTlwaWV2cTZPeEVYN3c9PSIsInZhbHVlIjoiV01mS2FDL1QvWnh5UXNBdjR5WUJTVW1zdUNZcEliV2xHRjNBOEY5SDBxclVSMVdQckZmR3F4OERBanAxdXN3SFlPV0o0V2QrNUpDYjJremJFWHlSd09DV1h6TVZQVWY5cG9zQWFDaWNvRGFyZ0xxMk5PaWduSGpneGEwTmhTUG4wV3VNV20yQTlkWWMxM25BNUNEcDM2Y3hzSGRhbFJ6QVlQT1ZxaE96ejRGRWNtdTNlK3M0NXVyK1A2UWJkZHF3WmhSWU5yQUZldmk4bWpwOHhBeml1Zz09IiwibWFjIjoiMmU5NTY5ZTYwNTVhNjI0MTdmNjVjM2U0OTc2ZGZkMjg3ZmMwZWU2NTM2YTdlZWZlZjM2Yzk4YTVmN2RiODkzNiIsInRhZyI6IiJ9&r=e7e6d9&rt=2d767765f03e8b0c6e1bd84d30da1e7f
@@ -77,5 +68,3 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1248.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mstrtv.com:25461/images/4edda73430b003dab37152f50145b7fa.png" group-title="DZN", PERU VS BRASIL
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1249.m3u8
-
-

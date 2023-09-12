@@ -14,6 +14,9 @@ https://2.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05 CAPITAL OTB
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06 PARX RACING
+#EXTVLCOPT:network-caching=100
+https://3.trstream01.xyz/canal2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06 RED MILE
 #EXTVLCOPT:network-caching=100
 https://shlsakamai3.akamaized.net/hlsorigin/red_mile_hd_fm_771/chunklist.m3u8?stream=red_mile_mbr&cust=TVG&user=&t=1694537829&h=7964537991fa7e81a13dba72f011e1aa&type=live

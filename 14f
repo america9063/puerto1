@@ -23,6 +23,9 @@ https://dcs-live-ue4.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?tr
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 RED MILE
 #EXTVLCOPT:network-caching=100
 https://shlsakamai3.akamaized.net/hlsorigin/red_mile_hd_fm_771/chunklist.m3u8?stream=red_mile_mbr&cust=TVG&user=&t=1694537829&h=7964537991fa7e81a13dba72f011e1aa&type=live
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRtoV8hJVkDJJr-tMnYhlcq6xu6pBgT8ZgCoyCK=s176-c-k-c0x00ffffff-no-rj" group-title="WEBMARFINS", CANAL 10 Keeneland Live Feed
+#EXTVLCOPT:network-caching=100
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694564654/ei/zqwAZaX3DObmxtYPhImDmAE/ip/200.44.206.40/id/ZIEGGpvoy08.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-n0zc_0xYd_u-OdbyG4q8x0LOayiduNTGz1HiKnH6onReFrr20/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALKZMxcONTUdRg8PO_ej794-kYfUgfPRicnUnxfvvKBLAiB1yzo5yO_lN0MRcDTIHYpPSyP0o3BoL9xMLv-prfl89Q%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
 #EXTVLCOPT:network-caching=100
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63

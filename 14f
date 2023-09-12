@@ -17,7 +17,10 @@ https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06 PARX RACING
 #EXTVLCOPT:network-caching=100
 https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06 RED MILE
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 07 FANDUEL TV
+#EXTVLCOPT:network-caching=100
+https://dcs-live-ue4.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-2&anvsid=m177635100-n18a030ed50b982bca219403768be805a&ts=1694541108&anvtrid=4631847fcc354891fcc8b14d481f04ec
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 RED MILE
 #EXTVLCOPT:network-caching=100
 https://shlsakamai3.akamaized.net/hlsorigin/red_mile_hd_fm_771/chunklist.m3u8?stream=red_mile_mbr&cust=TVG&user=&t=1694537829&h=7964537991fa7e81a13dba72f011e1aa&type=live
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL

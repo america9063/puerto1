@@ -5,22 +5,22 @@ https://3.trstream01.xyz/canal2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 02 THISHELDOWN
 #EXTVLCOPT:network-caching=100
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 03 
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 03 DELAWARE PARK
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04 DELAWRE PARK
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04 FINGERS LAKES
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05 FINGERS LAKES
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05 
 #EXTVLCOPT:network-caching=100
 https://5.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06  CAPITAL OTB
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL AJAX DOWNS
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 07 AJAX DOWNS
 #EXTVLCOPT:network-caching=100
 https://live.vimeocdn.com/1694625578-0x58c80c8d6b40e7c09fc11e3d98fceba185a23e0d/e475dc30-1c62-46b0-be50-ae19a061c40e/chunklist_b416000.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 ARC PIMILCO SIMULCAST LATAM
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 08 ARC PIMILCO SIMULCAST LATAM
 #EXTVLCOPT:network-caching=100
 https://playback2.akamaized.net/streams/9869799_6761374_lsib4s9y8k75xl5p0xn_1/exp=1694709501~acl=%2f*~data=hdntl~hmac=6380ccee190cab8265eba850c54b19f9852e79d4a0227dfc40f45dff49d4af58/media/9869799_6761374_lsib4s9y8k75xl5p0xn_1@628000p.m3u8?dw=14400&ts=1694620800
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL

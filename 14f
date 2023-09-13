@@ -17,9 +17,9 @@ https://movilhipismotv.com:5443/livetv99/streams/3WzEtLDAN7Nq1693443039652.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06  CAPITAL OTB
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL AJAX DOWNS
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", PRESCUE ISLE DOOWNS
 #EXTVLCOPT:network-caching=100
-https://live.vimeocdn.com/1694625578-0x58c80c8d6b40e7c09fc11e3d98fceba185a23e0d/e475dc30-1c62-46b0-be50-ae19a061c40e/chunklist_b416000.m3u8?
+https://c136-live-geo501-atr-hls.secure.footprint.net/hls-live/livepkgr_e105/_definst_/230913_USPD_2115_82S9Va_hds/230913_USPD_2115_82S9Va_825_hds.m3u8?uh=2d5cb49a9d7d0ea9781d9d5f214f8259&grs=g159&etime=20230913221539&token=06bf1c820d6e8c65062da
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 ARC PIMILCO SIMULCAST LATAM
 #EXTVLCOPT:network-caching=100
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?

@@ -11,16 +11,16 @@ https://2.trstream01.xyz/canal4/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04 FINGERS LAKE
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL KENTOCKY DOWNS
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05 KENTOCKY DOWNS
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/3WzEtLDAN7Nq1693443039652.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06  CAPITAL OTB
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL AJAX DOWNS
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 07 AJAX DOWNS
 #EXTVLCOPT:network-caching=100
 https://live.vimeocdn.com/1694625578-0x58c80c8d6b40e7c09fc11e3d98fceba185a23e0d/e475dc30-1c62-46b0-be50-ae19a061c40e/chunklist_b416000.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 ARC PIMILCO SIMULCAST LATAM
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 08 ARC PIMILCO SIMULCAST LATAM
 #EXTVLCOPT:network-caching=100
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL

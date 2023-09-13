@@ -1,31 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png"group-title="WEBMARFINS", CANAL 01 FORT ERIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png"group-title="WEBMARFINS", CANAL 01 PARX RACING
 #EXTVLCOPT:network-caching=100
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694559732/ei/lJkAZbGhFt3tvPIPjdqywAw/ip/200.44.206.40/id/2DznShTUJtE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f_k9ntSJsfHej0y71yG8iXL23vvjMt3rttKY7k6U43Z_TRV6v8Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgP5XM-roI2UxaMSGV44RUixHlH8oJi0DkqYkCWSC6J5UCIGOjRBE41GXbCjA5BUbaU3m_g2UU5Kko6b6arIZjuGyE/file/index.m3u8?
+https://3.trstream01.xyz/canal2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 02 THISHELDOWN
 #EXTVLCOPT:network-caching=100
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 03 FINGERS LAKES
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 03 
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04 INDIANAPOLIS
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 04 DELAWRE PARK
 #EXTVLCOPT:network-caching=100
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05 CAPITAL OTB
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 05 FINGERS LAKES
+#EXTVLCOPT:network-caching=100
+https://5.trstream01.xyz/canal6/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06  CAPITAL OTB
 #EXTVLCOPT:network-caching=100
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 06 PARX RACING
-#EXTVLCOPT:network-caching=100
-https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 07 FANDUEL TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 07 
 #EXTVLCOPT:network-caching=100
 https://dcs-live-ue4.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-2&anvsid=m177635100-n18a030ed50b982bca219403768be805a&ts=1694541108&anvtrid=4631847fcc354891fcc8b14d481f04ec
-#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 LUSISIANA DOWNS
+#EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="WEBMARFINS", CANAL 09 
 #EXTVLCOPT:network-caching=100
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694573560/ei/mM8AZZmGFsKAkAPGqozQDw/ip/200.44.206.40/id/JudS4Zx_3Mk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fz_UQpbXZFBgZ-aFD2zfI3fA7Bj_H-IyTB1FN6oSA6YgXWfeufk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM43dCDNMdubgM3QI7DDUHMylnShjIAxifiSsJ2PL17mAiBID71MOcW9jl-hRvQemcBvRM-chQ7miHnaRnIaJR7d6w%3D%3D/file/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRtoV8hJVkDJJr-tMnYhlcq6xu6pBgT8ZgCoyCK=s176-c-k-c0x00ffffff-no-rj" group-title="WEBMARFINS", CANAL 10 Keeneland Live Feed
-#EXTVLCOPT:network-caching=100
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694564654/ei/zqwAZaX3DObmxtYPhImDmAE/ip/200.44.206.40/id/ZIEGGpvoy08.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-n0zc_0xYd_u-OdbyG4q8x0LOayiduNTGz1HiKnH6onReFrr20/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALKZMxcONTUdRg8PO_ej794-kYfUgfPRicnUnxfvvKBLAiB1yzo5yO_lN0MRcDTIHYpPSyP0o3BoL9xMLv-prfl89Q%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG" group-title="WOOBINE", WOOBINE OFICIAL
 #EXTVLCOPT:network-caching=100
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
@@ -59,18 +56,3 @@ http://68.235.61.59/play/hls/eyJpdiI6InExZ28rQ2VQN3NzVit0OUdWQ256ZVE9PSIsInZhbHV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qh7Iywp.png" group-title="DZN", WAPA DEPORTES HD
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mstrtv.com:25461/images/4edda73430b003dab37152f50145b7fa.png" group-title="DZN", BOLIVIA VS ARGENTINA 
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1245.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mstrtv.com:25461/images/4edda73430b003dab37152f50145b7fa.png" group-title="DZN", ECUADOR VS URUGUAY
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1246.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mstrtv.com:25461/images/4edda73430b003dab37152f50145b7fa.png" group-title="DZN", VENEZUELA VS PARAGUAY
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1247.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mstrtv.com:25461/images/4edda73430b003dab37152f50145b7fa.png" group-title="DZN", CHILE VS COLOMBIA
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1248.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mstrtv.com:25461/images/4edda73430b003dab37152f50145b7fa.png" group-title="DZN", PERU VS BRASIL
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1249.m3u8

@@ -14,9 +14,12 @@ https://2.trstream01.xyz/canal4/stream.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", SIMULCAST 5
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG", WOOBINE
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG", WOOBINE 7
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", SIMULCAST 8 ALBUQUERQUE
+#EXTGRP:SIMULCAST
+https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj", MARILAND PILMICO LAUREL
 #EXTGRP:SIMULCAST
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?

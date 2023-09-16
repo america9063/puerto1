@@ -20,9 +20,9 @@ https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj", MARILAND PILMICO LAUREL
 #EXTGRP:SIMULCAST
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", GULFSTREAM PARK 
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", HIPICA TV
 #EXTGRP:SIMULCAST
-https://livestream.com/xbtv/events/9869799/videos/3519786
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694900672/ei/YM0FZbKzB4DwvPIPoMiKkAk/ip/200.90.91.154/id/Uo0tdyQWjbk.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f0P-D8ktSGRADl0_O25O893NT1fTU1sKdapHiHteeRx27X4X82Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJJ0FXNhPVv-wNFomOk60WEp0zR8G1wHUT43msPMwf9qAiB9vo4prZ53cCoVnDdTqpgRjg_Pe1kgU6XlrB0FNIYHcQ%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg", Greyhound Racing SISTV GALGOS
 #EXTGRP:SIMULCAST
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8

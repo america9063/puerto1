@@ -14,27 +14,27 @@ https://2.trstream01.xyz/canal4/stream.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", SIMULCAST 5
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG", WOOBINE 7
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG", WOOBINE
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", SIMULCAST 8 ALBUQUERQUE
-#EXTGRP:SIMULCAST
-https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj", MARILAND PILMICO LAUREL
 #EXTGRP:SIMULCAST
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", GULFSTREAM PARK 
 #EXTGRP:SIMULCAST
-https://api.new.livestream.com/accounts/3519786/events/237554558/live.m3u8
+https://livestream.com/xbtv/events/9869799/videos/3519786
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg", Greyhound Racing SISTV GALGOS
 #EXTGRP:SIMULCAST
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.mardigrascasinowv.com/-/media/gaming/mardi-gras/images/home/logos/logo-mardigras.png?", Greyhound Racing MARDI GRAS GALGOS
 #EXTGRP:SIMULCAST
 https://movilhipismotv.com:5443/livetv99/streams/YsPJcq6FUE5T1690027211517.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/78ebd189/img/favicon.ico", SIMULCAST YOUTUBE
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG", UK RACING SKYTV
 #EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694732345/ei/2TsDZYOAH7nwvPIPyYy_6Ac/ip/201.249.28.32/id/O8FaMlBy9ds.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f-IVRAXCEEJATQABY7hix059o1fAw9Lfb1lwKutLOoSiwWjjRbg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM04opz1DD3DQyg7eac8Nlp3W7It4MkJ9eED75uaVo-yAiEA-iQ_rvcskeSrDJt17lZtn7MZh0P-6ayFItO1NmvklHc%3D/file/index.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/78ebd189/img/favicon.ico", NYRA BELMONT
+https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj", HIPODROMO MONTERICO 
 #EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694732969/ei/SD4DZdGFOY-TkAPBjMXoCQ/ip/201.249.28.32/id/Ivkr3YlNENE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f8Jnd79leyq76zDjoPv0W5X-qsMI8cMKEiUwqvJpRd2gSQ8e8G8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ84j2wmB9_CrdMUyaO1rC_0imxIhHv5ntII-uOy0omIAiAfR7VzvwHwuPcnvL0YLktgr6grzufzJqOU86ruS3cDGA%3D%3D/file/index.m3u8?
+https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=gC%2FygP2VRQV5hjj5IyrW013KvQ5w8yhVZR2LTm160WQ%3D
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV HD
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8

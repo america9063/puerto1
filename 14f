@@ -28,7 +28,7 @@ https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
 https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj", HIPICA TV
 #EXTGRP:SIMULCAST
-https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694991411/ei/0y8HZa3QBPL54QSs1rKoDA/ip/200.109.18.85/id/4Ubw-ItPi7E.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f_OePUIq2jEaFrPhXMS-jhsrDwhrAU7QTW14mltiIRY6ZlKbjfE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL-VWjuGr-ABwsGyBYGw8DRgeyq4vkJXOwBHcSPHX97nAiBoDcMJyx7ODLZlOPigGP4BgqPhuCLMpzG0G01XrTN_Zg%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg", Greyhound Racing SISTV GALGOS
 #EXTGRP:SIMULCAST
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8

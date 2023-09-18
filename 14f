@@ -17,30 +17,18 @@ https://2.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj", WOOBINE
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/pJbcepMGrlYUN_H2sZ81dyMJwzxo8a-FwoPgeDspJHWEp3fyTO6iykeZoVb0ka7pOTyH5Btt=s176-c-k-c0x00ffffff-no-rj", INHTV
-#EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694989389/ei/7ScHZbuIAs_W4QTG5qDAAg/ip/200.109.18.85/id/DZ5XBYROhWc.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fwpaJCJ4a-uOZNx0ymhwkkIyd66WT57lWIXUutfgY_EBRi_CDv8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPsVQIdZzGN3W4xpVdb3DEA12IzCm7WJSNL-GUbrOrZ1AiAgXa68WVpJ-proLBPNQSAo7u_6WI9hDhRqLSBQCuTRKA%3D%3D/file/index.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj", MARILAND PILMICO LAUREL
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj", MARILAND PILMICO LAUREL CHILE
 #EXTGRP:SIMULCAST
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", GULSFTREAM PARK
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", GULSFTREAM PARK 
 #EXTGRP:SIMULCAST
 https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj", HIPICA TV
-#EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694991411/ei/0y8HZa3QBPL54QSs1rKoDA/ip/200.109.18.85/id/4Ubw-ItPi7E.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f_OePUIq2jEaFrPhXMS-jhsrDwhrAU7QTW14mltiIRY6ZlKbjfE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL-VWjuGr-ABwsGyBYGw8DRgeyq4vkJXOwBHcSPHX97nAiBoDcMJyx7ODLZlOPigGP4BgqPhuCLMpzG0G01XrTN_Zg%3D%3D/file/index.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRX1EmO1a9-F6Ze7e7XSMQanujAwpLerEWD9D3r=s176-c-k-c0x00ffffff-no-rj", GOLDEN GATES FIELDS
 #EXTGRP:SIMULCAST
 https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", ALBUQUERQUE
-#EXTGRP:SIMULCAST
-https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg", Greyhound Racing SISTV GALGOS
 #EXTGRP:SIMULCAST
 https://f3media-greyhound-b28-cdn.hexaglobe.net/d10499c4b99c37b49d9155b5e8e51bc7/1653595377/f3media-website-web-1/f3greyhoundpri_fre_576p.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.mardigrascasinowv.com/-/media/gaming/mardi-gras/images/home/logos/logo-mardigras.png?", Greyhound Racing MARDI GRAS GALGOS
-#EXTGRP:SIMULCAST
-https://movilhipismotv.com:5443/livetv99/streams/YsPJcq6FUE5T1690027211517.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/WOOBINE2.JPG", UK RACING SKYTV
 #EXTGRP:SIMULCAST
 https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8
@@ -50,6 +38,3 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=gC%2FygP2VRQV5h
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV HD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV SD
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8

@@ -50,6 +50,9 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=gC%2FygP2VRQV5h
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV HD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", REAL MADRID LIVE
+#EXTGRP:PELICULAS
+https://csm-e-cetubiausw2live204-0f0a353ac505c27da.csm.tubi.video/csm/live/382725832/3.m3u8;jsessionid=E6030F6CFE80290E9E3E198AB4EF15B0.csm-e-cetubiausw2live204-0f0a353ac505c27da.csm.tubi.video?playback_start_ts=1695157936.244&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtcmVhbC1tYWRyaWQudHViaS52aWRlby9wbGF5bGlzdC5tM3U4&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613762&content_type=mp4&device_id=dfd36bd6-9d08-43ac-8f4d-8fed4ed8d9a0&language=es&now_pos=0&pub_id=9af39de1ce45aa9dadf1026d8d2a0f9a&vpaid_enabled=true&origin=deeplink&platform=WEB&externalId=Real-Madrid
 #EXTM3U
 #EXTINF:-1 tvg-name="CAPITAL OTB" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRsjidjGiCFVhdAnZkbkGzhk31BSsE2zxDmE5VUFw=s176-c-k-c0x00ffffff-no-rj", SIMULCAST 1 
 #EXTGRP:SIMULCAST
@@ -66,18 +69,12 @@ https://2.trstream01.xyz/canal4/stream.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", SIMULCAST 5
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", FINGERS LAKES
-#EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695168276/ei/tOIJZbSHKPHxvPIPpOqO6AI/ip/200.109.18.85/id/lAJZ6Ibnw0k.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f37sayDhv70txQ9JYn7tZ6wZ4ccDfhEgcpQTGqAYMbkC88ascd8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI43R9ppAN0R3ui_uKj5L5ubd3ZHMG9X0ObwAts78gd1AiEAuEbZR8p9WAjSWXu4JmdgQPnRYUhgG6JlFUcDWpSFwN8%3D/file/index.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", FORT ERIEC
-#EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695168195/ei/Y-IJZcf0DKTqvPIPxZC4kAk/ip/200.109.18.85/id/n4c4GP4_XJM.2/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f4tNwd7C0szMs2fFdTio8dfV5pHL4cX4we0Z0Y58h-VfurOrbUI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWG9JLf3_jL8qQXG2QxJaECxMrVGRD2v6z8-WKXI-QyoCICjf-Q6MeOuSucDzXIF_CzaLFJyPPG-ZFCkhGmpZMkue/file/index.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", SUPERTBET
 #EXTGRP:SIMULCAST
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695168854/ei/9uQJZYSwJuX6xtYPqPeYqA8/ip/200.109.18.85/id/xjjXBAH-nN0.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fw5pdXDBVMOEGBeWp_-5_zMsRM3ZpfaTBka_ZRx8_9mFirFGKUg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOOXXGcw_Iwl6MBSzWMO3F3GovLLnduTb6ytQxKdCnkqAiEAo8r-gg2LIF-f6x7pDY8UKPPeNumirr3p5YedAzuXDcs%3D/file/index.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", FAN FADUEL
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", ASD Assiniboia Downs
 #EXTGRP:SIMULCAST
-https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-1&anvsid=m177626900-n0734437cd8e64174d048675478e6f6b1&ts=1695147884&anvtrid=25aa6aa8fe94a05c0ff965709b4df3b0
+
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj", WOOBINE
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
@@ -102,7 +99,7 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=gC%2FygP2VRQV5h
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV HD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", REAL MADRID LIVE
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", SPORTS EVENTO LIVE
 #EXTGRP:LIVE
 https://csm-e-cetubiausw2live204-0f0a353ac505c27da.csm.tubi.video/csm/live/382725832/3.m3u8;jsessionid=E6030F6CFE80290E9E3E198AB4EF15B0.csm-e-cetubiausw2live204-0f0a353ac505c27da.csm.tubi.video?playback_start_ts=1695157936.244&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtcmVhbC1tYWRyaWQudHViaS52aWRlby9wbGF5bGlzdC5tM3U4&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613762&content_type=mp4&device_id=dfd36bd6-9d08-43ac-8f4d-8fed4ed8d9a0&language=es&now_pos=0&pub_id=9af39de1ce45aa9dadf1026d8d2a0f9a&vpaid_enabled=true&origin=deeplink&platform=WEB&externalId=Real-Madrid
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", FOX SPORTS USA

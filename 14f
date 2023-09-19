@@ -50,3 +50,6 @@ https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=gC%2FygP2VRQV5h
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="http://aftertv.xyz/posters/1615865234312.png", MLB TV HD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoGjtP-iZwI_66b-oHQ9xCWV1Wi48Egx3IKllVLJBOTNyPiaPscasWyFno3ZEKOISkV08&usqp=CAU", REAL MADRID LIVE
+#EXTGRP:PELICULAS
+https://csm-e-cetubiausw2live204-0f0a353ac505c27da.csm.tubi.video/csm/live/382725832/3.m3u8;jsessionid=E6030F6CFE80290E9E3E198AB4EF15B0.csm-e-cetubiausw2live204-0f0a353ac505c27da.csm.tubi.video?playback_start_ts=1695157936.244&yo.ap=https%3A%2F%2Flna.tubi.video%2Fprd-yospace%2F&yo.t.jt=1000&yo.eb.fb=aHR0cHM6Ly9sbmMtcmVhbC1tYWRyaWQudHViaS52aWRlby9wbGF5bGlzdC5tM3U4&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613762&content_type=mp4&device_id=dfd36bd6-9d08-43ac-8f4d-8fed4ed8d9a0&language=es&now_pos=0&pub_id=9af39de1ce45aa9dadf1026d8d2a0f9a&vpaid_enabled=true&origin=deeplink&platform=WEB&externalId=Real-Madrid

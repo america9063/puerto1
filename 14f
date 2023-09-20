@@ -31,7 +31,7 @@ https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8?
 https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",AJAX
 #EXTGRP:SIMULCAST
-https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", ALBUQUERQUE
 #EXTGRP:SIMULCAST
 https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8

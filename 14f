@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL1 [COLOR lime] DELAWARE [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL1 [COLOR lime] SIMULCAST [/COLOR]
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL2 [COLOR lime] NYRA [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL2 [COLOR lime] SIMULCAST [/COLOR]
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CANAL3 [COLOR lime] THISTLEDOW [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CANAL3 [COLOR lime] SIMULCAST [/COLOR]
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL4 [COLOR lime] INDIANA [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL4 [COLOR lime] SIMULCAST [/COLOR]
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL5 [COLOR lime] BELTERRA [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL5 [COLOR lime] SIMULCAST [/COLOR]
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL6 [COLOR lime] PRESCUE ISLE [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL6 [COLOR lime] SIMULCAST [/COLOR]
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-name="CAPITAL OTB" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRsjidjGiCFVhdAnZkbkGzhk31BSsE2zxDmE5VUFw=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen] • [/COLOR] [COLOR gold] CANAL [COLOR lime] OTB [COLOR skyblue] 24/7 [/COLOR]
 #EXTGRP:SIMULCAST
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] CANAL [COLOR lime] WOOBINE [COLOR skyblue]3:50pm [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] CANAL OFICIAL [COLOR lime] WOOBINE [COLOR skyblue]3:50pm [/COLOR]
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63

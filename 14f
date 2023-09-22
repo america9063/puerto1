@@ -1,25 +1,137 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL1 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL1 [COLOR lime] DELAWARE [/COLOR]
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL2 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL2 [COLOR lime] NYRA [/COLOR]
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CANAL3 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CANAL3 [COLOR lime] THISTLEDOW [/COLOR]
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL4 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL4 [COLOR lime] INDIANA [/COLOR]
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL5 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL5 [COLOR lime] BELTERRA [/COLOR]
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL6 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL6 [COLOR lime] PRESCUE ISLE [/COLOR]
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-name="CAPITAL OTB" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRsjidjGiCFVhdAnZkbkGzhk31BSsE2zxDmE5VUFw=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen] • [/COLOR] [COLOR gold] CANAL [COLOR lime] OTB [COLOR skyblue] 24/7 [/COLOR]
 #EXTGRP:SIMULCAST
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] CANAL OFICIAL [COLOR lime] WOOBINE [COLOR skyblue]3:50pm [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] CANAL [COLOR lime] WOOBINE [COLOR deepskyblue][04:50pm] [/COLOR][B][COLOR lime](JUEVES 21)[/B][/COLOR]
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] LAUREL PILMICO [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](VIERNES a DOMINGO)[/B] [/COLOR]
+https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] GULFSTREAM PARK [/B][/COLOR] [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](VIERNES 22)[/B][/COLOR]
+https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8? 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] HIPICA TV [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](VIERNES a DOMINGO)[/B][/COLOR]
+https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/RDMrnkoSBKVWMcovP92m_8qSZXWWe0PnxfCmm?io=true&size=avatar-v1",[B][COLOR lawngreen]•[COLOR pink] GOLDEN GATES [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](SABADO 23)[/B][/COLOR]
+https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSoiUDe9HUPy6LSSvw-YxbHwIqy6CYQNP3RbyztJg=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] SANTA ANITA [/B][/COLOR]  [B] [COLOR deepskyblue][3:30pm] [/B][/COLOR][B][COLOR lime](SABADO 29/09)[/B][/COLOR]
+https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", [COLOR sandybrown] ALBUQUERQUE [/COLOR]
+#EXTGRP:SIMULCAST
+https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://unitedwaydr.com/wp-content/uploads/wpcufpn_default_img_20170128172257.jpeg",[COLOR sandybrown]  AJAX DOWNS  [/COLOR]
+#EXTGRP:SIMULCAST
+https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?max_segments=10
+#EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTOS RINCONADA-VALENCIA-** [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/pJbcepMGrlYUN_H2sZ81dyMJwzxo8a-FwoPgeDspJHWEp3fyTO6iykeZoVb0ka7pOTyH5Btt=s176-c-k-c0x00ffffff-no-rj-mo",[B][COLOR lawngreen]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] LA RINCONADA [/B][/COLOR]  [B][COLOR blue][12:30pm] [/B][/COLOR][B][COLOR red](Domingos)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1, [B] [COLOR orange] [I][B] -S-T-R-E-A-M-S EVENTOS S-I-M-U-L-C-A-S-T- [/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red]  EVENTES1  [/COLOR]
+#EXTGRP:SIMULCAST
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695253431/ei/Vi8LZdmQPMG0kAPKlYboBg/ip/200.90.69.201/id/2khRgijlpRU.2/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f7SmHJNGkjTSIIzH4o4NafnYyblb18VCfQKXnipq0gCj2ZmAI4k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI9tBhMMuKP8vAGzv1S9ZFvsKRdkDlmtxkQuRylTyUnVAiEA2R0a96VzWKRsR_XpNHFgJ7FgZtZizGdnssw_ZiC6vtg%3D/file/index.m3u8?
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] EVENTS 2 [/COLOR]
+#EXTGRP:SIMULCAST
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695245244/ei/XA8LZcePHpGmkAPnjojQDw/ip/190.206.64.118/id/GJ_omRzpsho.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f9JQVVi1dany6ckfLaUWnATK2TOAx3-Spr3ttWPcCuv6-TjQn80/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANkKxbptKbukI2ugxucwpWsMjZAIPoViS0vQQDKIU3GVAiBSv-NPP6OMikm-xwgde06IDRNSLBUmLQCtuJynfzEPhw%3D%3D/file/index.m3u8?
+#EXTINF:-1, [B] [COLOR orange] [I][B]---I-N-T-E-R-N-A-C-I-O-N-A-L-TRACKS--[/B][/I] [/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_au_racing.png/200px-Sky_au_racing.png",[B][COLOR lawngreen]•[COLOR lawngreen] SKY INTERNACIONAL [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR lawngreen] MONTERRICO PERU Y USA [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=hpfYbEwV1RotoMTS2v6gHKf%2B2qYeC5T8qpa8V8eV6LU%3D
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR lawngreen] HIPODROMOS CHILENOS [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=1090519055
+#EXTINF:-1,[B][COLOR orange] [I][B]***D-E-P-O-R-T-E-S** [/B][/I] [/COLOR]  
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-id="" tvg-logo="https://as01.epimg.net/baloncesto/imagenes/2021/08/04/nba/1628075599_241755_1628075753_noticia_normal_recorte1.jpg" group-title="MLB", [COLOR skyblue] NBA TV [/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", [COLOR skyblue] NHL [/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", [COLOR skyblue] IVC DEPORTES [/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://68.235.48.211/play/hls/eyJpdiI6IjJBcEFrUXJDSFZ4a3RETDlmNXJrVkE9PSIsInZhbHVlIjoiTTY3RTR1WmpXTDZLVFZHRk83SDZKLzE3UjZuVWtyM08zUy9TRDNpLzl5VFhlTUhvRUQ1Q2FOanpJUmhRN3BqUSIsIm1hYyI6IjQzODY4ODcxMGEyYTc4NzFhZTZhNDhkOTNkNTdmYjU0MGQ1Y2FmOTIwMTk3NzFkMzg1MDc4YTczYzBkNzk0NDAiLCJ0YWciOiIifQ==/f23b5a9e-221a-464f-8598-3a634c686979.m3u8?lvtoken=eyJpdiI6ImxYYVMwUXMvL0hIUDlQQUV6cHppYkE9PSIsInZhbHVlIjoiTFgvUzNXOC9rUmdzRlhnQWg5K1RKYk4yWTB6YmtBSGVRRGRhbFdEaDUyTTIwY3lCZDJxa3B5M1U4ZTYxV01hMzdGWHJwdDFBRFFyOVgzWVJCOSt4MUtSL3UrWHhxNjg1R1p2SlZINXRhbjdXWVFYWXFyT1BmRFJlVjE2TDJMak16SWdFcHJmZkd5cys2MVJhTGovUTQ1K2tySHYrcCtad2cyU3l3VDhiVlJ5MkY2K1hCYTluN2U1VVFrc0hVaG8rZkhJcWNXSkNRRStCcnV4dGx5WmdQUT09IiwibWFjIjoiNjlmOTc0ZGE1MmFkN2VmYmJjNjRlN2RhYzVlYTA5NzRlODJjMGFhZjRjNjJmZmQ0OGZlMGNlMTFhNWY5NDkxNyIsInRhZyI6IiJ9&r=677188&rt=8b88b583274758266193161357e8cfb8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp", [COLOR skyblue] REAL MADRID TV [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="DZN", [COLOR skyblue] DZN LIGA ESPAÑOLA HD [/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/642098.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="DZN", [COLOR skyblue] LIGA ESPAÑOLA JUEGOS HOY [/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/675028.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DZN", [COLOR skyblue] LIGA ESPAÑOLA MOVISTAR TV [/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://68.235.61.59/play/hls/eyJpdiI6InExZ28rQ2VQN3NzVit0OUdWQ256ZVE9PSIsInZhbHVlIjoicDZETlRGUlMrY1A1S1NrOWYwZHYrKzhJY0JJdjJmOGxhUzJ4b0hVWDFmVUdiOHdiQTQxYmFhLzEzL1NqVnkzayIsIm1hYyI6IjlkYWE1ZTNmZmZhZDdiMWFkM2UzMTg5NTUwM2YzMmZmZDRhNTQ2OTk4OTlkYjg5ZDdlMjY0OTRiYmFlODlhMGEiLCJ0YWciOiIifQ==/f8655164-1beb-4065-8169-7f50e36acbd2.m3u8?lvtoken=eyJpdiI6Ik5jUjdvM3UrTTlwaWV2cTZPeEVYN3c9PSIsInZhbHVlIjoiV01mS2FDL1QvWnh5UXNBdjR5WUJTVW1zdUNZcEliV2xHRjNBOEY5SDBxclVSMVdQckZmR3F4OERBanAxdXN3SFlPV0o0V2QrNUpDYjJremJFWHlSd09DV1h6TVZQVWY5cG9zQWFDaWNvRGFyZ0xxMk5PaWduSGpneGEwTmhTUG4wV3VNV20yQTlkWWMxM25BNUNEcDM2Y3hzSGRhbFJ6QVlQT1ZxaE96ejRGRWNtdTNlK3M0NXVyK1A2UWJkZHF3WmhSWU5yQUZldmk4bWpwOHhBeml1Zz09IiwibWFjIjoiMmU5NTY5ZTYwNTVhNjI0MTdmNjVjM2U0OTc2ZGZkMjg3ZmMwZWU2NTM2YTdlZWZlZjM2Yzk4YTVmN2RiODkzNiIsInRhZyI6IiJ9&r=e7e6d9&rt=2d767765f03e8b0c6e1bd84d30da1e7f
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qh7Iywp.png" group-title="DZN", [COLOR skyblue] WAPA DEPORTES HD [/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8
+#EXTINF:-1,[B][COLOR orange] [I][B]--D-E-P-O-R-T-E-S--VIVO-[/B][/I] [/COLOR]
+http://0.0.0.0:1234  
+#EXTINF:-1 tvg-name="ASTROS" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB1 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/982.m3u8
+#EXTINF:-1 tvg-name="ASTRO" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB2 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/984.m3u8
+#EXTINF:-1 tvg-name="ATLANTA" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB3 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/986.m3u8
+#EXTINF:-1 tvg-name="STLOUIS" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB4 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/988.m3u8
+#EXTINF:-1 tvg-name="METS" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB5 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/995.m3u8
+#EXTINF:-1 tvg-name="TAMPABAY" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB6 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1001.m3u8
+#EXTINF:-1 tvg-name="TAMPABAY" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB7 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1005.m3u8
+#EXTINF:-1 tvg-name="NY" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB8 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/1008.m3u8
+#EXTINF:-1 tvg-name="PITSBURH" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg",[COLOR deepskyblue] MLB9 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000 
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/998.m3u8
+#EXTINF:-1 tvg-name="MIAMI" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB10 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/994.m3u8
+#EXTINF:-1 tvg-name="BALTIMORE" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] MLB11 [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/997.m3u8

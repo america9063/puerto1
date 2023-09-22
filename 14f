@@ -2,36 +2,36 @@
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL1 [COLOR lime] DELAWARE [/COLOR]
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL2 [COLOR lime] NYRA [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL2 [COLOR lime] GULFSTREAM [/COLOR]
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CANAL3 [COLOR lime] THISTLEDOW [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CANAL3 [COLOR lime] LAUREL [/COLOR]
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL4 [COLOR lime] INDIANA [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL4 [COLOR lime] CHURCHILL [/COLOR]
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL5 [COLOR lime] BELTERRA [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL5 [COLOR lime] WOOBINE [/COLOR]
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL6 [COLOR lime] PRESCUE ISLE [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CANAL6 [COLOR lime] BELMONT [/COLOR]
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="CAPITAL OTB" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRsjidjGiCFVhdAnZkbkGzhk31BSsE2zxDmE5VUFw=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen] • [/COLOR] [COLOR gold] CANAL [COLOR lime] OTB [COLOR skyblue] 24/7 [/COLOR]
+#EXTINF:-1 tvg-name="CAPITAL OTB" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png",[COLOR lawngreen] • [/COLOR] [COLOR gold] CANAL [COLOR lime] OTB [COLOR skyblue] 24/7 [/COLOR]
 #EXTGRP:SIMULCAST
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] CANAL [COLOR lime] WOOBINE [COLOR deepskyblue][04:50pm] [/COLOR][B][COLOR lime](JUEVES 21)[/B][/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] OFICIAL [COLOR lime] WOOBINE [COLOR deepskyblue][04:50pm] [/COLOR][B][COLOR lime](JUEVES 21)[/B][/COLOR]
 #EXTGRP:SIMULCAST
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] LAUREL PILMICO [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](VIERNES a DOMINGO)[/B] [/COLOR]
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] LAUREL PILMICO [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](VIERNES a DOMINGO)[/B] [/COLOR]
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] GULFSTREAM PARK [/B][/COLOR] [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](VIERNES 22)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] GULFSTREAM PARK [/B][/COLOR] [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](VIERNES 22)[/B][/COLOR]
 https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8? 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] HIPICA TV [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](VIERNES a DOMINGO)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] HIPICA TV [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](VIERNES a DOMINGO)[/B][/COLOR]
 https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
-#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/RDMrnkoSBKVWMcovP92m_8qSZXWWe0PnxfCmm?io=true&size=avatar-v1",[B][COLOR lawngreen]•[COLOR pink] GOLDEN GATES [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](SABADO 23)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/RDMrnkoSBKVWMcovP92m_8qSZXWWe0PnxfCmm?io=true&size=avatar-v1",[B][COLOR lawngreen]•[COLOR pink] GOLDEN GATES [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](SABADO 23)[/B][/COLOR]
 https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSoiUDe9HUPy6LSSvw-YxbHwIqy6CYQNP3RbyztJg=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] SANTA ANITA [/B][/COLOR]  [B] [COLOR deepskyblue][3:30pm] [/B][/COLOR][B][COLOR lime](SABADO 29/09)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSoiUDe9HUPy6LSSvw-YxbHwIqy6CYQNP3RbyztJg=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] SANTA ANITA [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](SABADO 29/09)[/B][/COLOR]
 https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", [COLOR sandybrown] ALBUQUERQUE [/COLOR]
 #EXTGRP:SIMULCAST
@@ -53,30 +53,47 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695253431/ei/V
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695245244/ei/XA8LZcePHpGmkAPnjojQDw/ip/190.206.64.118/id/GJ_omRzpsho.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f9JQVVi1dany6ckfLaUWnATK2TOAx3-Spr3ttWPcCuv6-TjQn80/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANkKxbptKbukI2ugxucwpWsMjZAIPoViS0vQQDKIU3GVAiBSv-NPP6OMikm-xwgde06IDRNSLBUmLQCtuJynfzEPhw%3D%3D/file/index.m3u8?
 #EXTINF:-1, [B] [COLOR orange] [I][B]---I-N-T-E-R-N-A-C-I-O-N-A-L-TRACKS--[/B][/I] [/COLOR] 
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_au_racing.png/200px-Sky_au_racing.png",[B][COLOR lawngreen]•[COLOR lawngreen] SKY INTERNACIONAL [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_au_racing.png/200px-Sky_au_racing.png",[B][COLOR lawngreen]•[COLOR pink] SKY INTERNACIONAL [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR lawngreen] MONTERRICO PERU Y USA [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_au_racing.png/200px-Sky_au_racing.png",[B][COLOR lawngreen]•[COLOR pink] RACING TV [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
-https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=hpfYbEwV1RotoMTS2v6gHKf%2B2qYeC5T8qpa8V8eV6LU%3D
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR lawngreen] HIPODROMOS CHILENOS [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+https://movilhipismotv.com:5443/livetv99/streams/ws9VNJBdslOu1690025113534.m3u8
+#EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg",[B][COLOR lawngreen]•[COLOR pink] ATG [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
-https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=1090519055
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQgrhcpDvyq-lFbl3bzvu-kCdMtnN9rcAtoe5wh-w=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] MONTERRICO PERU Y USA [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8?token=9XU2T1%2FtVeucV35ns%2Bnv8EhuEklzyyr9dwmi%2B6Q%2BoNw%3D
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRXouSrWO1tSd-XRJlReGEplligZ1rSFj5i0YHT=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] TELETRACK CHILE [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?nimblesessionid=1704960564
+#EXTINF:-1 tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",[B][COLOR lawngreen]•[COLOR pink] HIPODROMO LAS AMERICAS MEX [/B][/COLOR]  [B] [COLOR deepskyblue][12:30pm] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
 #EXTINF:-1,[B][COLOR orange] [I][B]***D-E-P-O-R-T-E-S** [/B][/I] [/COLOR]  
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-id="" tvg-logo="https://as01.epimg.net/baloncesto/imagenes/2021/08/04/nba/1628075599_241755_1628075753_noticia_normal_recorte1.jpg" group-title="MLB", [COLOR skyblue] NBA TV [/COLOR]
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
+http://0.0.0.0:1234 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", [COLOR skyblue] MLB [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://as01.epimg.net/baloncesto/imagenes/2021/08/04/nba/1628075599_241755_1628075753_noticia_normal_recorte1.jpg" group-title="MLB", [COLOR skyblue] NBA TV [/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://embrosoft.com/wp-content/uploads/2020/09/nfl-frontal.jpg", [COLOR deepskyblue] NFL TV [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390750.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", [COLOR skyblue] IVC DEPORTES [/COLOR]
 #EXTVLCOPT:network-caching=1000
-http://68.235.48.211/play/hls/eyJpdiI6IjJBcEFrUXJDSFZ4a3RETDlmNXJrVkE9PSIsInZhbHVlIjoiTTY3RTR1WmpXTDZLVFZHRk83SDZKLzE3UjZuVWtyM08zUy9TRDNpLzl5VFhlTUhvRUQ1Q2FOanpJUmhRN3BqUSIsIm1hYyI6IjQzODY4ODcxMGEyYTc4NzFhZTZhNDhkOTNkNTdmYjU0MGQ1Y2FmOTIwMTk3NzFkMzg1MDc4YTczYzBkNzk0NDAiLCJ0YWciOiIifQ==/f23b5a9e-221a-464f-8598-3a634c686979.m3u8?lvtoken=eyJpdiI6ImxYYVMwUXMvL0hIUDlQQUV6cHppYkE9PSIsInZhbHVlIjoiTFgvUzNXOC9rUmdzRlhnQWg5K1RKYk4yWTB6YmtBSGVRRGRhbFdEaDUyTTIwY3lCZDJxa3B5M1U4ZTYxV01hMzdGWHJwdDFBRFFyOVgzWVJCOSt4MUtSL3UrWHhxNjg1R1p2SlZINXRhbjdXWVFYWXFyT1BmRFJlVjE2TDJMak16SWdFcHJmZkd5cys2MVJhTGovUTQ1K2tySHYrcCtad2cyU3l3VDhiVlJ5MkY2K1hCYTluN2U1VVFrc0hVaG8rZkhJcWNXSkNRRStCcnV4dGx5WmdQUT09IiwibWFjIjoiNjlmOTc0ZGE1MmFkN2VmYmJjNjRlN2RhYzVlYTA5NzRlODJjMGFhZjRjNjJmZmQ0OGZlMGNlMTFhNWY5NDkxNyIsInRhZyI6IiJ9&r=677188&rt=8b88b583274758266193161357e8cfb8
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/565948.m3u8
 #EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp", [COLOR skyblue] REAL MADRID TV [/COLOR]
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", [COLOR skyblue] BARCA TV [/COLOR]
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b0lypV3.png" group-title="DZN", [COLOR skyblue] DZN LIGA ESPAÑOLA HD [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/642098.m3u8

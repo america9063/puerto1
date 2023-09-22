@@ -67,7 +67,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://as01.epimg.net/baloncesto/imagenes/2021/08/04/nba/1628075599_241755_1628075753_noticia_normal_recorte1.jpg" group-title="MLB", [COLOR skyblue] NBA TV [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", [COLOR skyblue] NHL [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="MLB", [COLOR skyblue] MLB [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11054_7_8175.png" group-title="MLB", [COLOR skyblue] IVC DEPORTES [/COLOR]

@@ -39,8 +39,10 @@ https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-logo="https://d2zp5xs5cp8zlg.cloudfront.net/image-88464-340.jpg",[B][COLOR lawngreen]•[COLOR pink] AJAX DOWN [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](SCHEDULE)[/B][/COLOR]
 #EXTGRP:SIMULCAST
 https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?max_segments=10
-#EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTOS RINCONADA-VALENCIA-** [/B][/I] [/COLOR] 
+#EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTOS ****I-N-H-**** [/B][/I] [/COLOR] 
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/pJbcepMGrlYUN_H2sZ81dyMJwzxo8a-FwoPgeDspJHWEp3fyTO6iykeZoVb0ka7pOTyH5Btt=s176-c-k-c0x00ffffff-no-rj-mo",[B][COLOR lawngreen]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] HINAVA VALENCIA [/B][/COLOR]  [B][COLOR blue][12:30pm] [/B][/COLOR][B][COLOR red](SABADO)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/pJbcepMGrlYUN_H2sZ81dyMJwzxo8a-FwoPgeDspJHWEp3fyTO6iykeZoVb0ka7pOTyH5Btt=s176-c-k-c0x00ffffff-no-rj-mo",[B][COLOR lawngreen]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] LA RINCONADA [/B][/COLOR]  [B][COLOR blue][12:30pm] [/B][/COLOR][B][COLOR red](Domingos)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS   
 #EXTINF:-1, [B] [COLOR orange] [I][B] -S-T-R-E-A-M-S EVENTOS S-I-M-U-L-C-A-S-T- [/B][/I] [/COLOR] 

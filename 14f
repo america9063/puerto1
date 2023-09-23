@@ -47,20 +47,20 @@ plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac06
 plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS   
 #EXTINF:-1, [B] [COLOR orange] [I][B] -S-T-R-E-A-M-S EVENTOS S-I-M-U-L-C-A-S-T- [/B][/I] [/COLOR] 
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red]  EVENTES1  [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] EVENTES1 [/B]  [/COLOR]
 #EXTGRP:SIMULCAST
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695253431/ei/Vi8LZdmQPMG0kAPKlYboBg/ip/200.90.69.201/id/2khRgijlpRU.2/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f7SmHJNGkjTSIIzH4o4NafnYyblb18VCfQKXnipq0gCj2ZmAI4k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI9tBhMMuKP8vAGzv1S9ZFvsKRdkDlmtxkQuRylTyUnVAiEA2R0a96VzWKRsR_XpNHFgJ7FgZtZizGdnssw_ZiC6vtg%3D/file/index.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] EVENTS 2 [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] EVENTS 2 [/B] [/COLOR]
 #EXTGRP:SIMULCAST
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695245244/ei/XA8LZcePHpGmkAPnjojQDw/ip/190.206.64.118/id/GJ_omRzpsho.1/source/yt_live_broadcast/requiressl/yes/tx/24384776/txs/24384770%2C24384771%2C24384772%2C24384773%2C24384774%2C24384775%2C24384776/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f9JQVVi1dany6ckfLaUWnATK2TOAx3-Spr3ttWPcCuv6-TjQn80/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANkKxbptKbukI2ugxucwpWsMjZAIPoViS0vQQDKIU3GVAiBSv-NPP6OMikm-xwgde06IDRNSLBUmLQCtuJynfzEPhw%3D%3D/file/index.m3u8?
-#EXTINF:-1, [B] [COLOR orange] [I][B]---I-N-T-E-R-N-A-C-I-O-N-A-L-TRACKS--[/B][/I] [/COLOR] 
+#EXTINF:-1, [B] [COLOR orange] [I][B]--***I-N-T-E-R-N-A-C-I-O-N-A-L**-[/B][/I] [/COLOR] 
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Sky_au_racing.png/200px-Sky_au_racing.png",[B][COLOR lawngreen]•[COLOR pink] SKY UK [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://skylivepremium-new.akamaized.net/hls/live/2036996/sky1/index.m3u8 
-#EXTINF:-1 tvg-logo="https://galopetv.com/wp-content/uploads/2019/12/logo-GalopeTV.png",[B][COLOR lawngreen]•[COLOR pink] RACING TV [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://twitter.com/RacingTV/photo",[B][COLOR lawngreen]•[COLOR pink] RACING TV [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://movilhipismotv.com:5443/livetv99/streams/ws9VNJBdslOu1690025113534.m3u8
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg",[B][COLOR lawngreen]•[COLOR pink] ATG [/B][/COLOR]  [B] [COLOR deepskyblue][24/7] [/B][/COLOR][B][COLOR lime](UK)[/B][/COLOR]
@@ -77,7 +77,7 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3
 http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
 #EXTINF:-1,[B][COLOR orange] [I][B]***G-A-L-G-O-S** [/B][/I] [/COLOR]  
 http://0.0.0.0:1234 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144322012661374981/dLrZbKlQ_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] Wheeling Island USA [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/eventsfyv2-production/artists/Wheeling_Island_Racetrack_1.jpg",[B][COLOR lawngreen]•[COLOR pink] Wheeling Island USA [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://movilhipismotv.com:5443/livetv99/streams/SlibnNwPn0kG1690027259922.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1326188819578753024/iLYLe_Oh_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] SIS TV UK  [/B][/COLOR]  [B] [COLOR deepskyblue][OFICIAL TV] [/B][/COLOR][B][COLOR lime](Lunes a Domingo)[/B][/COLOR]
@@ -172,7 +172,3 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/997.m3u8
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://carrerasamericanas.net/tvg1.php
-#EXTINF:-1 tvg-name="BALTIMORE" tvg-logo="https://gray-wilx-prod.cdn.arcpublishing.com/resizer/SNALvCcmnGijjO6vw9WpngVpLGo=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/SLAFYEJEEJNY7ID3HHAOUPL4YA.jpg", [COLOR deepskyblue] test albquerqu [/COLOR]
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8

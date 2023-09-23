@@ -116,9 +116,6 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/642098.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZWzYqeb.png" group-title="DZN", [COLOR skyblue] LIGA ESPAÑOLA JUEGOS HOY [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/675028.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DZN", [COLOR skyblue] LIGA ESPAÑOLA MOVISTAR TV [/COLOR]
-#EXTVLCOPT:network-caching=1000
-http://68.235.61.59/play/hls/eyJpdiI6InExZ28rQ2VQN3NzVit0OUdWQ256ZVE9PSIsInZhbHVlIjoicDZETlRGUlMrY1A1S1NrOWYwZHYrKzhJY0JJdjJmOGxhUzJ4b0hVWDFmVUdiOHdiQTQxYmFhLzEzL1NqVnkzayIsIm1hYyI6IjlkYWE1ZTNmZmZhZDdiMWFkM2UzMTg5NTUwM2YzMmZmZDRhNTQ2OTk4OTlkYjg5ZDdlMjY0OTRiYmFlODlhMGEiLCJ0YWciOiIifQ==/f8655164-1beb-4065-8169-7f50e36acbd2.m3u8?lvtoken=eyJpdiI6Ik5jUjdvM3UrTTlwaWV2cTZPeEVYN3c9PSIsInZhbHVlIjoiV01mS2FDL1QvWnh5UXNBdjR5WUJTVW1zdUNZcEliV2xHRjNBOEY5SDBxclVSMVdQckZmR3F4OERBanAxdXN3SFlPV0o0V2QrNUpDYjJremJFWHlSd09DV1h6TVZQVWY5cG9zQWFDaWNvRGFyZ0xxMk5PaWduSGpneGEwTmhTUG4wV3VNV20yQTlkWWMxM25BNUNEcDM2Y3hzSGRhbFJ6QVlQT1ZxaE96ejRGRWNtdTNlK3M0NXVyK1A2UWJkZHF3WmhSWU5yQUZldmk4bWpwOHhBeml1Zz09IiwibWFjIjoiMmU5NTY5ZTYwNTVhNjI0MTdmNjVjM2U0OTc2ZGZkMjg3ZmMwZWU2NTM2YTdlZWZlZjM2Yzk4YTVmN2RiODkzNiIsInRhZyI6IiJ9&r=e7e6d9&rt=2d767765f03e8b0c6e1bd84d30da1e7f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qh7Iywp.png" group-title="DZN", [COLOR skyblue] WAPA DEPORTES HD [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/667187.m3u8

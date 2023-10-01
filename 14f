@@ -59,10 +59,10 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/22/Nba-Logo-PNG-File.png" group-title="DEPORTES", [COLOR skyblue] NBA TV [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",group-title="DEPORTES [COLOR skyblue] REAL MADRID TV [/COLOR]
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",group-title=" ,[COLOR skyblue] REAL MADRID TV [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="BARCA TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", group-title="DEPORTES [COLOR skyblue] BARCA TV [/COLOR]
+#EXTINF:-1 tvg-name="BARCA TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", [COLOR skyblue] BARCA TV [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
 #EXTINF:-1,[B][COLOR orange] [I][B] INFO ESCRIBA WHATSAPP /(+1) 802-245-3656 [/B][/I] [/COLOR]

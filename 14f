@@ -50,10 +50,10 @@ http://0.0.0.0:1234
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695772945/ei/sRwTZbuDKdC50_wPwa6FyAk/ip/200.109.17.215/id/57u56IDdz1g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/UWF9f7CZ6Qjta881zBLKszxdA_j5GmY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6UFbJUvMafpCmgV4WAK7zBkGcejWbGECM1ht-RoJu5AiAdE4JxuP1MdwzoegN8qfP5ESpM4WwfludfO4kiny2ZMg%3D%3D/file/index.m3u8
 #EXTINF:-1,[B][COLOR orange] [I][B]***S-P-O-R-T-S** [/B][/I] [/COLOR]  
 http://0.0.0.0:1234 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="DEPORTES", [COLOR skyblue] MLB HD [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="DEPORTES", [COLOR skyblue] MLB [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="DEPORTES", [COLOR skyblue] MLB [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="DEPORTES", [COLOR skyblue] MLB HD [/COLOR]
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/22/Nba-Logo-PNG-File.png" group-title="DEPORTES", [COLOR skyblue] NBA TV [/COLOR]

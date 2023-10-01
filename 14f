@@ -41,7 +41,7 @@ https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?max_segments=10
 #EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTS LIVE ****VZLA-**** [/B][/I] [/COLOR] 
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://elinmejorable.com/wp-content/uploads/2020/08/inh_logo-300x121.png",[B][COLOR red]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] INHTV [/B][/COLOR]  [B][COLOR blue][12:30pm] [/B][/COLOR][B][COLOR red](SATURDY)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png",[B][COLOR red]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] INHTV [/B][/COLOR]  [B][COLOR blue][12:30pm] [/B][/COLOR][B][COLOR red](SATURDY)[/B][/COLOR]
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696199388/ei/fJ4ZZYrEIse6kAOIw6LoBw/ip/190.203.52.83/id/IYz6U6lOBMo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5C3GWZSFmI6ewAF-pexXj578Ms/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP1lXtSIUsEcFxkaH-Mt71dwKp1cd5qzCFEorHaEmCs7AiEAuncy_qBV642c9SlD4XCSofif8KYMiwtheS_kk14JZy0%3D/file/index.m3u8?
 #EXTINF:-1, [B] [COLOR orange] [I][B] -S-T-R-E-A-M-S EVENTS LIVE S-I-M-U-L-C-A-S-T- [/B][/I] [/COLOR] 
 http://0.0.0.0:1234

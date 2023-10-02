@@ -47,6 +47,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-wschoOqZtA%3D%3D/file/index.m3u8
 #EXTINF:-1, [B] [COLOR orange] [I][B] -S-T-R-E-A-M-S EVENTS LIVE S-I-M-U-L-C-A-S-T- [/B][/I] [/COLOR] 
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] PRESCUE ISLE [/B]  [/COLOR]
+#EXTGRP:SIMULCAST
+https://streamn.horserjson.info/video/hls/presque_downs_mbr/_ZdavzCLprdheplwaE8FPg/1696284946/presque_downs_mbr.m3u8
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] INDIANA [/B]  [/COLOR]
+#EXTGRP:SIMULCAST
+https://streamn.horserjson.info/video/hls/indiana_mbr/dzJEIWozD_hhF5TzZLRXGQ/1696284978/indiana_mbr.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] SIN EVENTOS [/B]  [/COLOR]
 #EXTGRP:SIMULCAST
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695772945/ei/sRwTZbuDKdC50_wPwa6FyAk/ip/200.109.17.215/id/57u56IDdz1g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/UWF9f7CZ6Qjta881zBLKszxdA_j5GmY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6UFbJUvMafpCmgV4WAK7zBkGcejWbGECM1ht-RoJu5AiAdE4JxuP1MdwzoegN8qfP5ESpM4WwfludfO4kiny2ZMg%3D%3D/file/index.m3u8

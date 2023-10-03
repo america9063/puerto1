@@ -1,77 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CHANNEL1 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL1  
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CHANNEL2 [COLOR lime] SIMULCAST  [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL2 
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] •[COLOR gold] CHANNEL3 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL3 
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CHANNEL4 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL4 
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CHANNEL5 [COLOR lime] SIMULCAST [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL5 
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",[COLOR lawngreen] • [COLOR gold] CHANNEL6 [COLOR lime] SIMULCAST [/COLOR]
-#EXTGRP:SIMULCAST
+#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL6 
+#EXTGRP:SIMULCAST2
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="CAPITAL OTB" tvg-logo="https://pbs.twimg.com/profile_images/1225090301846589440/QbjKufBt_400x400.jpg",[COLOR lawngreen] • [/COLOR] [COLOR gold] CHANNEL [COLOR lime] OTB [COLOR skyblue] 24/7 [/COLOR]
-#EXTGRP:SIMULCAST
+#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://pbs.twimg.com/profile_images/1225090301846589440/QbjKufBt_400x400.jpg", CHANNEL OTB 
+#EXTGRP:SIMULCAST2
 https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj",[COLOR lawngreen ] • [COLOR gold] OFFICIAL TV [COLOR lime] WOOBINE [COLOR deepskyblue][SCHEDULE] [/COLOR][B][COLOR lime](JUEVES 21)[/B][/COLOR]
-#EXTGRP:SIMULCAST
+#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj", OFFICIAL WOOBINE 
+#EXTGRP:SIMULCAST2
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] LAUREL PILMICO [/B][/COLOR]  [B] [COLOR deepskyblue][OFFICIAL TV] [/B][/COLOR][B][COLOR lime](FRIDAY TO SUNDAY)[/B] [/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",LAUREL PILMICO OFFICIAL TV
+#EXTGRP:SIMULCAST2
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg",[B][COLOR lawngreen]•[COLOR pink] GULFSTREAM PARK [/B][/COLOR] [B] [COLOR deepskyblue][OFFICIAL TV] [/B][/COLOR][B][COLOR lime]( SCHEDULE))[/B][/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", GULFSTREAM PARK OFFICIAL TV
+#EXTGRP:SIMULCAST2
 https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8? 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] HIPICA TV [/B][/COLOR]  [B] [COLOR deepskyblue][OFFICIAL TV] [/B][/COLOR][B][COLOR lime](FRIDAY TO SUNDAY)[/B][/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj", HIPICA TV OFFICIAL TV
+#EXTGRP:SIMULCAST3
 https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
-#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/RDMrnkoSBKVWMcovP92m_8qSZXWWe0PnxfCmm?io=true&size=avatar-v1",[B][COLOR lawngreen]•[COLOR pink] GOLDEN GATES FIELDS [/B][/COLOR]  [B] [COLOR deepskyblue][OFFICIAL TV] [/B][/COLOR][B][COLOR lime](SCHEDULE)[/B][/COLOR]
-https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSoiUDe9HUPy6LSSvw-YxbHwIqy6CYQNP3RbyztJg=s176-c-k-c0x00ffffff-no-rj",[B][COLOR lawngreen]•[COLOR pink] SANTA ANITA PARK [/B][/COLOR]  [B] [COLOR deepskyblue][OFFICIAL TV TV] [/B][/COLOR][B][COLOR lime](SCHEDULE)[/B][/COLOR]
-https://api.new.livestream.com/accounts/9869799/events/9051411/live.m3u8?
-#EXTINF:-1 tvg-logo="https://extrabetamerica.imgix.net/52616a7a8fbe40beb828081db2b69210.jpg",[B][COLOR lawngreen]•[COLOR pink] ALBUQUERQUE [/B][/COLOR]  [B] [COLOR deepskyblue][OFFICIAL TV] [/B][/COLOR][B][COLOR lime](SCHEDULE)[/B][/COLOR]
-#EXTGRP:SIMULCAST
+#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://extrabetamerica.imgix.net/52616a7a8fbe40beb828081db2b69210.jpg", ALBUQUERQUE 
+#EXTGRP:SIMULCAST3
 https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
-#EXTINF:-1 tvg-logo="https://d2zp5xs5cp8zlg.cloudfront.net/image-88464-340.jpg",[B][COLOR lawngreen]•[COLOR pink] AJAX DOWN [/B][/COLOR]  [B] [COLOR deepskyblue][OFFICIAL TV] [/B][/COLOR][B][COLOR lime](SCHEDULE)[/B][/COLOR]
-#EXTGRP:SIMULCAST
-https://live-ak.vimeocdn.com/exp=1695233250~acl=%2F431cb02c-6b8c-4b05-9b23-f04df06c583d%2F%2A~hmac=1b11c66a6861538291bd5b0076a0439537683cc21936ec28b2543cf3add4d67e/431cb02c-6b8c-4b05-9b23-f04df06c583d/chunklist_b416000.m3u8?max_segments=10
-#EXTINF:-1, [B] [COLOR orange] [I][B] -**EVENTS LIVE ****VZLA-**** [/B][/I] [/COLOR] 
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png",[B][COLOR red]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] INHTV1 [/B][/COLOR]  [B][COLOR blue][INH]  [/B][/COLOR][B][COLOR red](SATURDY)[/B][/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", Mountanier Park 
+#EXTGRP:SIMULCAST3
+https://streamn.horserjson.info/video/hls/finger_lakes_mbr/DjLjjglgd8f_RlYDEe2VMw/1696281428/finger_lakes_mbr.m3u8
+#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV1
+#EXTGRP:SIMULCAST3
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5tgZZd3QFLO40_wP15uZoA4/ip/190.203.52.83/id/OjhjMdcx5Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2als3A1camWTucQFzcb6un0Iqo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLhDVe15y8d-AzD7OFf5j4s-PWUNvn3IYVa6IitpJL5QCICWYrmtjJ200S2U00NOVhjLa_MDhEiT8ZB6SZpKs8IYF/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png",[B][COLOR red]•[/B][/COLOR] INH [B][COLOR [B][COLOR lime] INHTV2[/B][/COLOR]  [B][COLOR blue] [MERIDIANO] [/B][/COLOR][B][COLOR red](SATURDY)[/B][/COLOR]
+#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV [MERIDIANO] 
+#EXTGRP:SIMULCAST3
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-wschoOqZtA%3D%3D/file/index.m3u8
-#EXTINF:-1, [B] [COLOR orange] [I][B] -S-T-R-E-A-M-S EVENTS LIVE S-I-M-U-L-C-A-S-T- [/B][/I] [/COLOR] 
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] PRESCUE ISLE [/B]  [/COLOR]
-#EXTGRP:SIMULCAST
-https://streamn.horserjson.info/video/hls/presque_downs_mbr/_ZdavzCLprdheplwaE8FPg/1696284946/presque_downs_mbr.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] INDIANA [/B]  [/COLOR]
-#EXTGRP:SIMULCAST
-https://streamn.horserjson.info/video/hls/indiana_mbr/dzJEIWozD_hhF5TzZLRXGQ/1696284978/indiana_mbr.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", [COLOR red] [B] SIN EVENTOS [/B]  [/COLOR]
-#EXTGRP:SIMULCAST
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695772945/ei/sRwTZbuDKdC50_wPwa6FyAk/ip/200.109.17.215/id/57u56IDdz1g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/UWF9f7CZ6Qjta881zBLKszxdA_j5GmY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6UFbJUvMafpCmgV4WAK7zBkGcejWbGECM1ht-RoJu5AiAdE4JxuP1MdwzoegN8qfP5ESpM4WwfludfO4kiny2ZMg%3D%3D/file/index.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B]***S-P-O-R-T-S** [/B][/I] [/COLOR]  
-http://0.0.0.0:1234 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="DEPORTES", [COLOR skyblue] MLB HD [/COLOR]
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="DEPORTES", [COLOR skyblue] MLB SD [/COLOR]
+#EXTINF:-1 tvg-name="SPORTS" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 
+#EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/22/Nba-Logo-PNG-File.png" group-title="DEPORTES", [COLOR skyblue] NBA TV [/COLOR]
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390307.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",group-title=" ,[COLOR skyblue] REAL MADRID TV [/COLOR]
+#EXTINF:-1 tvg-name="SPORTS" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",  REAL MADRID TV 
+#EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="BARCA TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", [COLOR skyblue] BARCA TV [/COLOR]
-#EXTVLCOPT:network-caching=1000
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
-#EXTINF:-1,[B][COLOR orange] [I][B] INFO ESCRIBA WHATSAPP /(+1) 802-245-3656 [/B][/I] [/COLOR]
+#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://sportsbetting.legal/wp-content/uploads/2020/05/virtual-horse-racing-icon-150x150.jpg",  Virtual Horse Racing  
+#EXTGRP:VIRTUAL
+https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3/chunklist.m3u8
+#EXTINF:-1, INFO WHATSAAP (+1) 802-245-3656
 http://0.0.0.0:1234

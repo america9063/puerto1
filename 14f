@@ -76,7 +76,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FOX SPORTS 1 NYRA
 #EXTGRP:ACST
-http://127.0.0.1:6878/play/O2oULww/2
+http://190.203.52.83:6878/play/O2oULww/2
 #EXTINF:-1 tvg-name="FOX SPORTS2" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg", FOX SPORTS 2 NYRA
 #EXTGRP:ACST
 http://190.203.52.83:6878/play/O2oULww/10

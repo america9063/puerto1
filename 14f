@@ -44,7 +44,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5
 #EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV [MERIDIANO] 
 #EXTGRP:SIMULCAST3
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-wschoOqZtA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="SPORTS" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 
+#EXTINF:-1 tvg-name="SPORTS" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB INFO WHATSAAP (+1) 802-245-3656
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8

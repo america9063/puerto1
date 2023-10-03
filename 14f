@@ -1,76 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL1  
+#EXTINF:-1 tvg-name="CHANNEL1" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL1  
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL2 
+#EXTINF:-1 tvg-name="CHANNEL2" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL2 
 #EXTGRP:SIMULCAST
 https://3.trstream01.xyz/canal2/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL3 
+#EXTINF:-1 tvg-name="CHANNEL3" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL3 
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal3/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL4 
+#EXTINF:-1 tvg-name="CHANNEL4" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL4 
 #EXTGRP:SIMULCAST
 https://2.trstream01.xyz/canal4/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL5 
+#EXTINF:-1 tvg-name="CHANNEL5" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL5 
 #EXTGRP:SIMULCAST
 https://5.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL6 
+#EXTINF:-1 tvg-name="CHANNEL6" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png", CHANNEL6 
 #EXTGRP:SIMULCAST2
 https://2.trstream01.xyz/canal6/stream.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://pbs.twimg.com/profile_images/1225090301846589440/QbjKufBt_400x400.jpg", CHANNEL OTB 
+#EXTINF:-1 tvg-name="CHANNEL OTB " tvg-logo="https://pbs.twimg.com/profile_images/1225090301846589440/QbjKufBt_400x400.jpg", CHANNEL OTB 
 #EXTGRP:SIMULCAST2
-https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj", OFFICIAL WOOBINE 
+https://movilhipismotv.com:5443/livetv99/streams/TZPbRR75jVpf1693660158925.m3u8 
+#EXTINF:-1 tvg-name="WOOBINE OFICIAL" tvg-logo="https://yt3.googleusercontent.com/iQAivSIGquYLTGBi_O2U3ymRcZhtV0O46aN-hYbb5IDFN589B8zcHnE6uopMlRUXq3C9vr7H=s176-c-k-c0x00ffffff-no-rj", WOOBINE OFICIAL
 #EXTGRP:SIMULCAST2
 https://bcovlive-a.akamaihd.net/713d396427fa481180b8d7cfa1fb792f/us-east-1/61382429001/profile_0/chunklist.m3u8?hdnea=st=1690044778~exp=9007200944785769~acl=/713d396427fa481180b8d7cfa1fb792f/*/profile_0/chunklist.m3u8*~hmac=d2da18ba54a76762d7568d0111e7277c20b47a1d506030a088c60117e79d4d63
-#EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",LAUREL PILMICO OFFICIAL TV
+#EXTINF:-1 tvg-name="LAUREL PILMICO OFFICIAL TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQBoJDRTndsZ7ZJWUC1CIMtxE4GdYkSMNeUoXMl=s176-c-k-c0x00ffffff-no-rj",LAUREL PILMICO OFFICIAL TV
 #EXTGRP:SIMULCAST2
 https://api.new.livestream.com/accounts/9869799/events/6761374/live.m3u8?
 #EXTINF:-1 tvg-name="SIMULCAST2" tvg-logo="https://pbs.twimg.com/profile_images/1179769175318896640/PTke2JN0_400x400.jpg", GULFSTREAM PARK OFFICIAL TV
 #EXTGRP:SIMULCAST2
 https://api.new.livestream.com/accounts/9869799/events/3519786/live.m3u8? 
-#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj", HIPICA TV OFFICIAL TV
+#EXTINF:-1 tvg-name="HIPICA TV OFFICIAL TV" tvg-logo="https://yt3.googleusercontent.com/PJeYBNpy8c6kvW_f_qU_oobUbKcfFIEOd8kYeKl0Cb4-QWLLvPs2y1V7sCFBmI3DXIvm58X0=s176-c-k-c0x00ffffff-no-rj", HIPICA TV OFFICIAL TV
 #EXTGRP:SIMULCAST3
 https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
-#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://extrabetamerica.imgix.net/52616a7a8fbe40beb828081db2b69210.jpg", ALBUQUERQUE 
+#EXTINF:-1 tvg-name="ALBUQUERQUE OFICIAL" tvg-logo="https://extrabetamerica.imgix.net/52616a7a8fbe40beb828081db2b69210.jpg", ALBUQUERQUE OFICIAL
 #EXTGRP:SIMULCAST3
 https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", Mountanier Park 
+#EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", FANDUEL SPORSTBOOK FAIRMOUNT
+#EXTGRP:SIMULCAST3
+https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-0&anvsid=m177626902-n255cb262ccf56da6845f6bb4e906cc91&ts=1696358213&anvtrid=2038054af6086115ae03d40e72817713
+#EXTINF:-1 tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", STREAMING SIMULCAST
 #EXTGRP:SIMULCAST3
 https://streamn.horserjson.info/video/hls/finger_lakes_mbr/DjLjjglgd8f_RlYDEe2VMw/1696281428/finger_lakes_mbr.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV1
-#EXTGRP:SIMULCAST3
+#EXTINF:-1 tvg-id="SERVERFAC1" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", PARX RACING SERVER2
+#EXTGRP:SERVER2
+https://streamn.horserjson.info/video/hls/philadelphia_mbr/ExX4sG6wm-PTGRVdBdFKhQ/1696353931/philadelphia_mbr.m3u8
+#EXTINF:-1 tvg-id="SERVERFAC2" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
+#EXTGRP:SERVER2
+https://streamn.horserjson.info/video/hls/belterra_park_mbr/Z8GdBWF85RDfXnW79JS2vQ/1696354098/belterra_park_mbr.m3u8
+#EXTINF:-1 tvg-id="SERVERFAC3" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg",  FANDUEL  SERVER2
+#EXTGRP:SERVER2
+https://streamn.horserjson.info/video/hls/fairmount_mbr/lkNM6sXB0Etj9uT8j0jNqw/1696358814/fairmount_mbr.m3u8
+#EXTINF:-1 tvg-id="ACST" tvg-name="SIMULCAST3 HD TEST1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQreJ8G-AlDeTRP6NSN8MeU3seeXsluaqe0DABNKF4hZRNiwhzba5b4plfPKS0JAb3R7KLpnLdd2yBgiWbiv3JjuovzvEBoZOq48ySeq6k_F_Rn7a1thBKMt0SZcYY0D962AKypj-RbIGyLl9_pte1X2Y80jnlwxF6wVnTO6-5LJv6BO_atIlqXBVREw1/s320/istockphoto-452228815-1024x1024.jpg", SIMULCAST3 HD ACST1
+#EXTGRP:ACST
+http://190.203.52.83:6878/play/O2oULww/113
+#EXTINF:-1 tvg-id="ACST" tvg-name="SIMULCAST3 HD TEST2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQreJ8G-AlDeTRP6NSN8MeU3seeXsluaqe0DABNKF4hZRNiwhzba5b4plfPKS0JAb3R7KLpnLdd2yBgiWbiv3JjuovzvEBoZOq48ySeq6k_F_Rn7a1thBKMt0SZcYY0D962AKypj-RbIGyLl9_pte1X2Y80jnlwxF6wVnTO6-5LJv6BO_atIlqXBVREw1/s320/istockphoto-452228815-1024x1024.jpg", SIMULCAST1 HD ACST2
+#EXTGRP:ACSTS
+http://190.203.52.83:6878/play/O2oULww/105
+#EXTINF:-1 tvg-name="INHTV1" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV1
+#EXTGRP:SIMULCAST4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5tgZZd3QFLO40_wP15uZoA4/ip/190.203.52.83/id/OjhjMdcx5Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2als3A1camWTucQFzcb6un0Iqo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLhDVe15y8d-AzD7OFf5j4s-PWUNvn3IYVa6IitpJL5QCICWYrmtjJ200S2U00NOVhjLa_MDhEiT8ZB6SZpKs8IYF/file/index.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST3" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV [MERIDIANO] 
-#EXTGRP:SIMULCAST3
+#EXTINF:-1 tvg-name="INHTV [MERIDIANO TV]" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV [MERIDIANO TV] 
+#EXTGRP:SIMULCAST4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-wschoOqZtA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="SPORTS" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 
+#EXTINF:-1 tvg-name="MLB" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
-#EXTINF:-1 tvg-name="SPORTS" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",  REAL MADRID TV 
+#EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",  REAL MADRID TV 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", PARX RACING SERVER2
-#EXTGRP:SERVER2
-https://streamn.horserjson.info/video/hls/philadelphia_mbr/ExX4sG6wm-PTGRVdBdFKhQ/1696353931/philadelphia_mbr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
-#EXTGRP:SERVER2
-https://streamn.horserjson.info/video/hls/belterra_park_mbr/Z8GdBWF85RDfXnW79JS2vQ/1696354098/belterra_park_mbr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg",  FANDUEL  SERVER2
-#EXTGRP:SERVER2
-https://streamn.horserjson.info/video/hls/fairmount_mbr/lkNM6sXB0Etj9uT8j0jNqw/1696358814/fairmount_mbr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"  group-title="DEPORTES", Fox Sports 1 NYRA
+#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FOX SPORTS 1 NYRA
+#EXTGRP:ACST
 http://127.0.0.1:6878/play/O2oULww/2
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg"  group-title="DEPORTES", Fox Sports 2 NYRA
+#EXTINF:-1 tvg-name="FOX SPORTS2" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg", FOX SPORTS 2 NYRA
+#EXTGRP:ACST
 http://190.203.52.83:6878/play/O2oULww/10
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", SIMULCAST3 HD TEST 
-#EXTGRP:SIMULCASTHD
-http://190.203.52.83:6878/play/O2oULww/113
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", SIMULCAST1 HD TEST 
-#EXTGRP:SIMULCASTHD
-http://190.203.52.83:6878/play/O2oULww/105
+#EXTINF:-1 tvg-name="BEINS SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" BEINS SPORTS Ñ 
+#EXTGRP:SPORTS
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://sportsbetting.legal/wp-content/uploads/2020/05/virtual-horse-racing-icon-150x150.jpg",  Virtual Horse Racing  
 #EXTGRP:VIRTUAL
 https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3/chunklist.m3u8
@@ -80,7 +88,7 @@ https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
 #EXTGRP:VIRTUAL
 chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://live-ak.vimeocdn.com/exp=1696353708~acl=%2F845b2242-3d5b-4ed9-81a1-4dac88b7ff76%2F%2A~hmac=8f9ad6ff8e7a4951e48a19609c330e01a39c0ff39117a98b0dc2550b930981f5/845b2242-3d5b-4ed9-81a1-4dac88b7ff76/chunklist_b416000.m3u8?max_segments=10
-#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  virtual galgos
+#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://wintips.com/wp-content/uploads/2023/03/dog-racing-is-quite-an-interesting-form-of-betting.jpg",  virtual galgos
 #EXTGRP:VIRTUAL
 https://vsklivevideo-vs001.akamaized.net/vsk/vdk/chunklist.m3u8
 #EXTINF:-1, INFO WHATSAAP (+1) 802-245-3656

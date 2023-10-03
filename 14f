@@ -35,7 +35,7 @@ https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
 #EXTINF:-1 tvg-name="ALBUQUERQUE OFICIAL" tvg-logo="https://extrabetamerica.imgix.net/52616a7a8fbe40beb828081db2b69210.jpg", ALBUQUERQUE OFICIAL
 #EXTGRP:SIMULCAST3
 https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
-#EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", FANDUEL SPORSTBOOK FAIRMOUNT
+#EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", FANDUEL OFICIAL FAIRMOUNT
 #EXTGRP:SIMULCAST3
 https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-0&anvsid=m177626902-n255cb262ccf56da6845f6bb4e906cc91&ts=1696358213&anvtrid=2038054af6086115ae03d40e72817713
 #EXTINF:-1 tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", STREAMING SIMULCAST
@@ -70,6 +70,10 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-name="BARCA TV" tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", BARCA TV 
+#EXTGRP:SPORTS
+#EXTVLCOPT:network-caching=1000
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FOX SPORTS 1 NYRA
 #EXTGRP:ACST
 http://127.0.0.1:6878/play/O2oULww/2

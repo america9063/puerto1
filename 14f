@@ -58,11 +58,11 @@ https://streamn.horserjson.info/video/hls/philadelphia_mbr/ExX4sG6wm-PTGRVdBdFKh
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
 #EXTGRP:SIMULCASTHD
 https://streamn.horserjson.info/video/hls/belterra_park_mbr/Z8GdBWF85RDfXnW79JS2vQ/1696354098/belterra_park_mbr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", FORT EIRIE SERVER2
 #EXTGRP:SIMULCASTHD
-
+https://streamn.horserjson.info/video/hls/fort_erie_mbr/NDJuqeHrt-hn1H77k5iS_A/1696355104/fort_erie_mbr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://thespun.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_760/MTgzMTI5NTI2Mzg2MDQyMjc1/fox-sports-1-logo.webp"  group-title="DEPORTES", Fox Sports 1 NYRA
-http://190.203.52.83:6878/play/O2oULww/10
+http://190.203.52.83:6878/play/O2oULww/2
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg"  group-title="DEPORTES", Fox Sports 2 NYRA
 http://190.203.52.83:6878/play/O2oULww/10
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", SIMULCAST3 HD TEST 
@@ -79,7 +79,7 @@ https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3
 https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
 #EXTGRP:VIRTUAL
-chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://live-ak.vimeocdn.com/exp=1696353708~acl=%2F845b2242-3d5b-4ed9-81a1-4dac88b7ff76%2F%2A~hmac=8f9ad6ff8e7a4951e48a19609c330e01a39c0ff39117a98b0dc2550b930981f5/845b2242-3d5b-4ed9-81a1-4dac88b7ff76/chunklist_b416000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1696353708~acl=%2F845b2242-3d5b-4ed9-81a1-4dac88b7ff76%2F%2A~hmac=8f9ad6ff8e7a4951e48a19609c330e01a39c0ff39117a98b0dc2550b930981f5/845b2242-3d5b-4ed9-81a1-4dac88b7ff76/chunklist_b416000.m3u8?max_segments=10
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  virtual galgos
 #EXTGRP:VIRTUAL
 https://vsklivevideo-vs001.akamaized.net/vsk/vdk/chunklist.m3u8

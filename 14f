@@ -37,7 +37,7 @@ https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
 https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",AJAX DOWNS OFICIAL
 #EXTGRP:SIMULCAST4
-https://live-ak.vimeocdn.com/exp=1696437623~acl=%2F6b313a01-2fb4-42f1-86e1-253d56b0987b%2F%2A~hmac=6465ae8cc206fc2fae11b70879508afc0f3ff0eaa5f23767fdd1133df81777c5/6b313a01-2fb4-42f1-86e1-253d56b0987b/chunklist_b3256000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1696442431~acl=%2F6b313a01-2fb4-42f1-86e1-253d56b0987b%2F%2A~hmac=ffb7b54d8f3a04c10c4f7e8f3a22b442d07f5e15b5251cb16cb3f9b53dfaf149/6b313a01-2fb4-42f1-86e1-253d56b0987b/hls.m3u8?min_seconds=390
 #EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", FANDUEL OFICIAL FAIRMOUNT
 #EXTGRP:SIMULCAST3
 https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-0&anvsid=m177626902-n255cb262ccf56da6845f6bb4e906cc91&ts=1696358213&anvtrid=2038054af6086115ae03d40e72817713
@@ -93,7 +93,7 @@ https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3
 https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8 
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
 #EXTGRP:VIRTUAL
-https://live-ak.vimeocdn.com/exp=1696439264~acl=%2Faa357133-d71c-4991-9212-9549525e4bcb%2F%2A~hmac=a5c1ebd8e4a53189ac62ce6467c1adf60e07c75ead141fb0347aebd700df1ced/aa357133-d71c-4991-9212-9549525e4bcb/chunklist_b416000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1696442962~acl=%2Faa357133-d71c-4991-9212-9549525e4bcb%2F%2A~hmac=ef17edb1412fc341d399aa6e6e300e8aa3111f52cc6759ec0498cb158af3c2e6/aa357133-d71c-4991-9212-9549525e4bcb/hls.m3u8?min_seconds=390
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://wintips.com/wp-content/uploads/2023/03/dog-racing-is-quite-an-interesting-form-of-betting.jpg",  virtual galgos
 #EXTGRP:VIRTUAL
 https://vsklivevideo-vs001.akamaized.net/vsk/vdk/chunklist.m3u8

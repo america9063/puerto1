@@ -41,33 +41,24 @@ https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?tr
 #EXTINF:-1 tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", STREAMING SIMULCAST
 #EXTGRP:SIMULCAST3
 https://streamn.horserjson.info/video/hls/finger_lakes_mbr/DjLjjglgd8f_RlYDEe2VMw/1696281428/finger_lakes_mbr.m3u8
-#EXTINF:-1 tvg-id="SERVERFAC1" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", PARX RACING SERVER2
-#EXTGRP:SERVER2
-https://streamn.horserjson.info/video/hls/philadelphia_mbr/ExX4sG6wm-PTGRVdBdFKhQ/1696353931/philadelphia_mbr.m3u8
-#EXTINF:-1 tvg-id="SERVERFAC2" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg", BELTERRA SERVER2
-#EXTGRP:SERVER2
-https://streamn.horserjson.info/video/hls/belterra_park_mbr/Z8GdBWF85RDfXnW79JS2vQ/1696354098/belterra_park_mbr.m3u8
-#EXTINF:-1 tvg-id="SERVERFAC3" tvg-name="Fox Sports Premium MX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpc2MbyzhDqpTaFPd_t58ECwT3OuAvwsYtAihehKB6FVNmuDTe9CtWcbmucPtedImllJw523jfAarHHcLcTqIU-3jb63gWGffzgD97ITOey7UHkrpuwJZ67jSxIC3mInkksOi0dFQiFe9VHit4XnQpLU-iDXmI96AVMT_fjI6ZQ4j13fjczGm28cT7-Wkc/s320/istockphoto-1064855432-1024x1024.jpg",  FANDUEL  SERVER2
-#EXTGRP:SERVER2
-https://streamn.horserjson.info/video/hls/fairmount_mbr/lkNM6sXB0Etj9uT8j0jNqw/1696358814/fairmount_mbr.m3u8
-#EXTINF:-1 tvg-id="ACST" tvg-name="SIMULCAST3 HD TEST1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQreJ8G-AlDeTRP6NSN8MeU3seeXsluaqe0DABNKF4hZRNiwhzba5b4plfPKS0JAb3R7KLpnLdd2yBgiWbiv3JjuovzvEBoZOq48ySeq6k_F_Rn7a1thBKMt0SZcYY0D962AKypj-RbIGyLl9_pte1X2Y80jnlwxF6wVnTO6-5LJv6BO_atIlqXBVREw1/s320/istockphoto-452228815-1024x1024.jpg", SIMULCAST3 HD ACST1
-#EXTGRP:ACST
-http://190.203.52.83:6878/play/O2oULww/113
-#EXTINF:-1 tvg-id="ACST" tvg-name="SIMULCAST3 HD TEST2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQreJ8G-AlDeTRP6NSN8MeU3seeXsluaqe0DABNKF4hZRNiwhzba5b4plfPKS0JAb3R7KLpnLdd2yBgiWbiv3JjuovzvEBoZOq48ySeq6k_F_Rn7a1thBKMt0SZcYY0D962AKypj-RbIGyLl9_pte1X2Y80jnlwxF6wVnTO6-5LJv6BO_atIlqXBVREw1/s320/istockphoto-452228815-1024x1024.jpg", SIMULCAST1 HD ACST2
-#EXTGRP:ACSTS
-http://190.203.52.83:6878/play/O2oULww/105
 #EXTINF:-1 tvg-name="INHTV1" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV1
 #EXTGRP:SIMULCAST4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5tgZZd3QFLO40_wP15uZoA4/ip/190.203.52.83/id/OjhjMdcx5Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2als3A1camWTucQFzcb6un0Iqo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLhDVe15y8d-AzD7OFf5j4s-PWUNvn3IYVa6IitpJL5QCICWYrmtjJ200S2U00NOVhjLa_MDhEiT8ZB6SZpKs8IYF/file/index.m3u8
 #EXTINF:-1 tvg-name="INHTV [MERIDIANO TV]" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV [MERIDIANO TV] 
 #EXTGRP:SIMULCAST4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-wschoOqZtA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://aftertv.xyz/posters/1615865234312.png",  MLB TV HD
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8sf3nQ3szUzytqlnN9VNlp8mPD_qdXSkaHhTeg8Qoc-iozwoH47r0AKWjz0CcBBN1Nc8TKMGVFYhnwUIiMWySYkP1fJGCduCaaYCAtwwFVnM4HV6ESd3VDZlvELSK30qqRq4mHItXQWiGiDwdkUIeal93sGS6YA94Qv7JsO1ZtaJYcETGdePmGFZDZa-t/s320/MLB%20LOGO%20HD.JPG",  MLB TV HD INFO PEDIDOS WHATSAAP (+1) 802-245-3656
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://aftertv.xyz/posters/1615865234312.png",  MLB TV SD
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB TV SD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE GAME 1
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/982.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE GAME 2
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/970.m3u8
 #EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",  REAL MADRID TV 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
@@ -97,5 +88,5 @@ chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://live-ak.v
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://wintips.com/wp-content/uploads/2023/03/dog-racing-is-quite-an-interesting-form-of-betting.jpg",  virtual galgos
 #EXTGRP:VIRTUAL
 https://vsklivevideo-vs001.akamaized.net/vsk/vdk/chunklist.m3u8
-#EXTINF:-1, INFO WHATSAAP (+1) 802-245-3656
+#EXTINF:-1, INFO PEDIDOS WHATSAAP (+1) 802-245-3656
 http://0.0.0.0:1234

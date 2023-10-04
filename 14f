@@ -35,9 +35,6 @@ https://api.new.livestream.com/accounts/9869799/events/7517661/live.m3u8?
 #EXTINF:-1 tvg-name="ALBUQUERQUE OFICIAL" tvg-logo="https://extrabetamerica.imgix.net/52616a7a8fbe40beb828081db2b69210.jpg", ALBUQUERQUE OFICIAL
 #EXTGRP:SIMULCAST3
 https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
-#EXTINF:-1 tvg-name="SIMULCAST" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png",AJAX DOWNS OFICIAL
-#EXTGRP:SIMULCAST4
-https://live-ak.vimeocdn.com/exp=1696442431~acl=%2F6b313a01-2fb4-42f1-86e1-253d56b0987b%2F%2A~hmac=ffb7b54d8f3a04c10c4f7e8f3a22b442d07f5e15b5251cb16cb3f9b53dfaf149/6b313a01-2fb4-42f1-86e1-253d56b0987b/hls.m3u8?min_seconds=390
 #EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", FANDUEL OFICIAL FAIRMOUNT
 #EXTGRP:SIMULCAST3
 https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-0&anvsid=m177626902-n255cb262ccf56da6845f6bb4e906cc91&ts=1696358213&anvtrid=2038054af6086115ae03d40e72817713
@@ -56,18 +53,39 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
 #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB TV SD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE GAME 1
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 1
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/350.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE GAME 2
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 2
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/349.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 3
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/352.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 4
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/362.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 5
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/202.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE GAME 3
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 6
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/203.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE GAME 4
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 7
 #EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/205.m3u8
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/204.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/3ondwJtqgg_1YlfjFd_KJMQ-Q4bz764TiYlsZc0kKwsU5FQghNUwalM0jnnPo7WysTCOWkQQIg=s176-c-k-c0x00ffffff-no-rj",  ESPN USA
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/90.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/RtgE9hxhqx2S2ba82Bboxh4rU0QFAGbpJqHv708zkZhIrgdKzvZeqIKagN5HY9szlvYVTn9A=s176-c-k-c0x00ffffff-no-rj",  CHAMPIONS LEGUE LIVE 1
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/341.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="https://yt3.googleusercontent.com/RtgE9hxhqx2S2ba82Bboxh4rU0QFAGbpJqHv708zkZhIrgdKzvZeqIKagN5HY9szlvYVTn9A=s176-c-k-c0x00ffffff-no-rj",  CHAMPIONS LEGUE LIVE 1
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/168.m3u8
+#EXTINF:-1 tvg-name="BEINS SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" BEINS SPORTS Ñ 
+#EXTGRP:SPORTS
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
 #EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",  REAL MADRID TV 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
@@ -76,26 +94,5 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
-#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FOX SPORTS 1 NYRA
-#EXTGRP:ACST
-http://190.203.52.83:6878/play/O2oULww/2
-#EXTINF:-1 tvg-name="FOX SPORTS2" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg", FOX SPORTS 2 NYRA
-#EXTGRP:ACST
-http://190.203.52.83:6878/play/O2oULww/10
-#EXTINF:-1 tvg-name="BEINS SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" BEINS SPORTS Ñ 
-#EXTGRP:SPORTS
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
-#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://sportsbetting.legal/wp-content/uploads/2020/05/virtual-horse-racing-icon-150x150.jpg",  Virtual Horse Racing  
-#EXTGRP:VIRTUAL
-https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3/chunklist.m3u8
-#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://sportsbetting.legal/wp-content/uploads/2020/05/virtual-horse-racing-icon-150x150.jpg",  Virtual Horse Racing 2 
-#EXTGRP:VIRTUAL
-https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8 
-#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
-#EXTGRP:VIRTUAL
-https://live-ak.vimeocdn.com/exp=1696442962~acl=%2Faa357133-d71c-4991-9212-9549525e4bcb%2F%2A~hmac=ef17edb1412fc341d399aa6e6e300e8aa3111f52cc6759ec0498cb158af3c2e6/aa357133-d71c-4991-9212-9549525e4bcb/hls.m3u8?min_seconds=390
-#EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://wintips.com/wp-content/uploads/2023/03/dog-racing-is-quite-an-interesting-form-of-betting.jpg",  virtual galgos
-#EXTGRP:VIRTUAL
-https://vsklivevideo-vs001.akamaized.net/vsk/vdk/chunklist.m3u8
 #EXTINF:-1, INFO PEDIDOS WHATSAAP (+1) 802-245-3656
 http://0.0.0.0:1234

@@ -62,15 +62,17 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5
 #EXTINF:-1 tvg-name="INHTV [MERIDIANO TV]" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV [MERIDIANO TV] 
 #EXTGRP:SIMULCAST4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-wschoOqZtA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="MLB" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png", MLB 
-#EXTGRP:SPORTS
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://aftertv.xyz/posters/1615865234312.png",  MLB TV HD
+#EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://aftertv.xyz/posters/1615865234312.png",  MLB TV SD
+#EXTGRP:DEPORTES
+https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
 #EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://online-television.net/uploads/posts/2022-11/thumbs/xreal-madrid.webp.pagespeed.ic.KII_RRhBKS.webp",  REAL MADRID TV 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="BARCA TV" tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", BARCA TV 
+#EXTINF:-1 tvg-name="BARCA TV" tvg-logo="https://yt3.googleusercontent.com/yNtlvRV8J8CQC1W6hvEwdBHUwXGrzzLKAci2-V-9YAR5-xgTtvfLo8WFLaSH1H8f_f3xBXZzCn8=s176-c-k-c0x00ffffff-no-rj", BARCA TV 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389643.m3u8
@@ -88,7 +90,7 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8
 https://streamamg-boyle01.akamaized.net/hls/live/2042661/0_iwo8idg1/0_iwo8idg1_3/chunklist.m3u8
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://sportsbetting.legal/wp-content/uploads/2020/05/virtual-horse-racing-icon-150x150.jpg",  Virtual Horse Racing 2 
 #EXTGRP:VIRTUAL
-https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8
+https://vsklivevideo-vs001.akamaized.net/vsk/vhk/chunklist.m3u8 
 #EXTINF:-1 tvg-name="VIRTUAL" tvg-logo="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2020/10/28/pelea-de-gallo.jpeg",  Online Peleas Gallos  
 #EXTGRP:VIRTUAL
 chrome-extension://cjfbmleiaobegagekpmlhmaadepdeedn/index.html#https://live-ak.vimeocdn.com/exp=1696353708~acl=%2F845b2242-3d5b-4ed9-81a1-4dac88b7ff76%2F%2A~hmac=8f9ad6ff8e7a4951e48a19609c330e01a39c0ff39117a98b0dc2550b930981f5/845b2242-3d5b-4ed9-81a1-4dac88b7ff76/chunklist_b416000.m3u8?max_segments=10

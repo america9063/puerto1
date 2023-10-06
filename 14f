@@ -38,9 +38,12 @@ https://movilhipismotv.com:5443/livetv99/streams/6zEPYO4BHReu1693659956132.m3u8
 #EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", FANDUEL OFICIAL FAIRMOUNT
 #EXTGRP:SIMULCAST3
 https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?track=video-0&anvsid=m177626902-n255cb262ccf56da6845f6bb4e906cc91&ts=1696358213&anvtrid=2038054af6086115ae03d40e72817713
-#EXTINF:-1 tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", STREAMING SIMULCAST
+#EXTINF:-1 tvg-name="FANDUEL SPORSTBOOK FAIRMOUNT" tvg-logo="https://mms.businesswire.com/media/20201116005862/en/839103/4/FD_Retail_SBK-HR_Logo_Vrt_FullColor_Primary_DarkBG.jpg", KEENELAND
 #EXTGRP:SIMULCAST3
-https://streamn.horserjson.info/video/hls/finger_lakes_mbr/DjLjjglgd8f_RlYDEe2VMw/1696281428/finger_lakes_mbr.m3u8
+https://movilhipismotv.com:5443/livetv99/streams/NR7I7aEbBBju1690026626365.m3u8
+#EXTINF:-1 tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png", STREAMING SUPERBET
+#EXTGRP:SIMULCAST3
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696626958/ei/riQgZfeuNJe20_wP6tuO4A4/ip/200.90.73.86/id/yGG0GXDHmUw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5EY9s1B25l-CeWGVN77WSUABiU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgdIITbujAii-SSKlSTX2qm0tJMpm-5QkBaf0JYi4aVJwCIQCdA1-086malEk6P0i-Ub6Nc3-cwmphHMpARFlydqv4og%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-name="INHTV1" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png", INHTV1
 #EXTGRP:SIMULCAST4
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696214342/ei/5tgZZd3QFLO40_wP15uZoA4/ip/190.203.52.83/id/OjhjMdcx5Hg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2als3A1camWTucQFzcb6un0Iqo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLhDVe15y8d-AzD7OFf5j4s-PWUNvn3IYVa6IitpJL5QCICWYrmtjJ200S2U00NOVhjLa_MDhEiT8ZB6SZpKs8IYF/file/index.m3u8

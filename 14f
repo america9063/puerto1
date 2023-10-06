@@ -53,36 +53,9 @@ https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
 #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB TV SD
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/156.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 1
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/350.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 2
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/349.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 3
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/352.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 4
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/362.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 5
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/202.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 6
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/203.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" https://static.epg.best/us/MLBNetwork.us.png",  MLB LIVE canal 7
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/204.m3u8
 #EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/3ondwJtqgg_1YlfjFd_KJMQ-Q4bz764TiYlsZc0kKwsU5FQghNUwalM0jnnPo7WysTCOWkQQIg=s176-c-k-c0x00ffffff-no-rj",  ESPN USA
 #EXTGRP:DEPORTES
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/90.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="MLB TV" tvg-logo="https://yt3.googleusercontent.com/RtgE9hxhqx2S2ba82Bboxh4rU0QFAGbpJqHv708zkZhIrgdKzvZeqIKagN5HY9szlvYVTn9A=s176-c-k-c0x00ffffff-no-rj",  CHAMPIONS LEGUE LIVE 1
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/341.m3u8
-#EXTINF:-1 tvg-name="MLB TV" tvg-logo=" #EXTINF:-1 tvg-name="https://yt3.googleusercontent.com/RtgE9hxhqx2S2ba82Bboxh4rU0QFAGbpJqHv708zkZhIrgdKzvZeqIKagN5HY9szlvYVTn9A=s176-c-k-c0x00ffffff-no-rj",  CHAMPIONS LEGUE LIVE 1
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/168.m3u8
 #EXTINF:-1 tvg-name="BEINS SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" BEINS SPORTS Ñ 
 #EXTGRP:SPORTS
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/389711.m3u8

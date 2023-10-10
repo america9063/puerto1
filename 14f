@@ -40,30 +40,9 @@ https://dcs-live-uc1.mp.lura.live/server/play/Z0ywNl4hlapQfxDj/rendition.m3u8?tr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRESNO RACING PARK" tvg-logo="https://racingdudes.com/wp-content/uploads/2017/08/fresno.png" group-title="(no group)", FRESNO RACING PARK
 https://movilhipismotv.com:5443/livetv99/streams/liyl6VP9FM7Z1694780196620.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="(no group)",STREAMING SIMULCAST superbet
-https://n9.cl/19grl
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="(no group)", columbus park
-https://hls1.rcncdn.com/hlsorigin/columbus_fm_1308/chunklist.m3u8?stream=columbus_mbr&cust=RTN&user=44096&t=1696781798&h=b08bfd766bf7638a58b7e1fb76a17693&type=live&optp=pid%3A38%7Ctid%3A#EXT-X-STREAM
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="(no group)",STREAMING SIMULCAST keeneland live feed
-https://n9.cl/bswdi0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STREAMING SIMULCAST" tvg-logo="https://www.youtube.com/s/desktop/51e20ad6/img/favicon_144x144.png" group-title="(no group)", NYRA BELMONT PARK OFICIAL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696805081/ei/edwiZcGGA8ety_sP8-uOoAI/ip/200.90.73.86/id/vtAmpDiv4GI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3cqKyHHee9m7T-v6qzXzJE7prE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgXDN6zL7GFtAayqASiODWmhesRowt_duoUkd2xT0820ICIQC_jO0NYPNDCMUmZOole9yLHrLkzhVOSVzuSLwlOdMFbw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696980254/ei/voglZd3lE5WFy_sPjfuTmAg/ip/190.205.244.242/id/R0UwvYLIdSI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyYPR178Fv_sCEvjBUDSoWwh-So/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIhANCAGLE3_6pFKf53sXbZV-98ps0_YZnx2uM9hq7xUrlxAiBN0JgEbPdEJLobBrw7nj_iMru9jWmXwGr4dFrhqeMRYQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INHTV1" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png" group-title="(no group)",INHTV1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696803636/ei/1NYiZYf4FPK90_wP6s6P4AM/ip/200.90.73.86/id/Anzat8ijW5U.1/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxoNWTIUHJlXVRG1Olv5YElBHRw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgItsZ4N-_NhqYdlpjRetes24weusuFad4fb874DdoS0wCIQDXwnwmMUAkDBNwFRBJ68qDp9W_D0ZEYVng5U1urDTqxg%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INHTV [MERIDIANO TV]" tvg-logo="https://apuestas.inh.gob.ve/src/_images/inhLogo.png" group-title="(no group)",INHTV [MERIDIANO TV]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1696210499/ei/48kZZerqKvD4j-8PjZSB0Ac/ip/190.203.52.83/id/b3AohAZtov4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3nebxJ77eaGrfj4TSsHcL3eu0s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMqE-jJt3ZsutR7gCCKawVtYryaATLcfdCu18e8HU0ZqAiAA6-5TU4HZboG1kWJmPp4t3-rho6yXfPR-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8sf3nQ3szUzytqlnN9VNlp8mPD_qdXSkaHhTeg8Qoc-iozwoH47r0AKWjz0CcBBN1Nc8TKMGVFYhnwUIiMWySYkP1fJGCduCaaYCAtwwFVnM4HV6ESd3VDZlvELSK30qqRq4mHItXQWiGiDwdkUIeal93sGS6YA94Qv7JsO1ZtaJYcETGdePmGFZDZa-t/s320/M" group-title="(no group)",MLB TV
 https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/914606.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8sf3nQ3szUzytqlnN9VNlp8mPD_qdXSkaHhTeg8Qoc-iozwoH47r0AKWjz0CcBBN1Nc8TKMGVFYhnwUIiMWySYkP1fJGCduCaaYCAtwwFVnM4HV6ESd3VDZlvELSK30qqRq4mHItXQWiGiDwdkUIeal93sGS6YA94Qv7JsO1ZtaJYcETGdePmGFZDZa-t/s320/M" group-title="(no group)",MLB TV EN VIVO HOUSTON
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/386.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://embrosoft.com/wp-content/uploads/2020/09/nfl-frontal.jpg",  MARQUEE SPORTS NETWORK
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/100.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/qh7Iywp.png",  WAPA DEPORTES PR MLB
-#EXTGRP:DEPORTES
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/36184.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/fox-sports-pluto.png", FOX SPORTS USA 
-#EXTGRP:DEPORTES2
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/398736.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.vizio.com/content/dam/vizio/2021/watch-free-plus/partners/sports-and-outdoor/fox-sports-pluto.png",  FOX SPORTS 2 USA 
-#EXTGRP:DEPORTES2
-https://gazytv.com:8443/live/IPTVA1213/2nYSNUXxAf/390734.m3u8
+

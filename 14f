@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL1" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL1
+#EXTINF:0 tvg-id="(no tvg-id)" tvg-name="CHANNEL1" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL1
 ws://38.114.122.109:8081/live/aqueduct
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL2" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL2
 https://3.trstream01.xyz/canal2/stream.m3u8

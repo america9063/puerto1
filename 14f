@@ -1,11 +1,11 @@
 #EXTM3U max-conn="2" url-tvg="http://eltigre-catv.com/iptv/epg123.xmltv" catchup-type="shift"
 
 #EXTINF:0, La imagen
-rtmp://38.114.122.109:1935/tvg/TVG111
+ffrt2 rtmp://38.114.122.109:1935/tvg/TVG111
 #EXTINF:0, Huetamo
-rtsp://38.114.122.109:554/tvg/TVG111
+auto rtsp://38.114.122.109:554/tvg/TVG111
 #EXTINF:0, Altamirano
-ws://38.114.122.109:8081/tvg/TVG111
+auto ws://38.114.122.109:8081/tvg/TVG111
 #EXTINF:0, TVG SRT
 srt://38.114.122.109:2100
 #EXTINF:-1, Altamirano2 WSS

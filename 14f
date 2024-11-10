@@ -1,61 +1,7 @@
-#EXTM3U max-conn="2" 
-#EXTINF:0 CUID="1503" tvg-chno="null" tvg-name="Acueduct (srt)" tvg-id="acueduct" tvg-logo="http://imgfz.com/i/itgwz0O.jpeg" group-title="Simulcast",Acueduct (srt)
-srt://38.114.122.109:2079
-#EXTINF:0 CUID="717" tvg-chno="null" tvg-name="Charles Town Races (srt)" tvg-id="laurel" tvg-logo="https://yt3.googleusercontent.com/Y6f0QBldbNISIDb-02Qoa5t4ml95WYABrTpzrAsyTBVCtnZnbCud_-Wr4TfRlv0aNLoruZbkzw=s160-c-k-c0x00ffffff-no-rj" group-title="Simulcast",Charles Town Races (srt)
-ws://38.114.122.109:8081/live/charles_town
-#EXTINF:0 CUID="718" tvg-chno="null" tvg-name="Churchill Downs (srt)" tvg-id="DELAWARE" tvg-logo="http://imgfz.com/i/Kexr8tv.jpeg" group-title="Simulcast",Churchill Downs (srt)
-srt://38.114.122.109:2074
-#EXTINF:0 CUID="720" tvg-chno="null" tvg-name="Delta Downs (srt)" tvg-id="Delta" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n8l6qahFuc0XQgW_imSCsA5rTscnErs9ndvdfgPcbX8NI=s160-c-k-c0x00ffffff-no-rj" group-title="Simulcast",Delta Downs (srt)
-ws://38.114.122.109:8081/live/delta_downs
-#EXTINF:0 CUID="721" tvg-chno="null" tvg-name="Del Mar(srt)" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/gbVCTlr.jpeg" group-title="Simulcast",Del Mar(srt)
-srt://38.114.122.109:2090
-#EXTINF:0 CUID="724" tvg-chno="null" tvg-name="Evangeline Downs" tvg-id="CHURCHILL" tvg-logo="http://imgfz.com/i/hBbQCge.jpeg" group-title="Simulcast",Evangeline Downs
-ws://38.114.122.109:8081/live/evangeline_downs
-#EXTINF:0 CUID="727" tvg-chno="null" tvg-name="Fairmount Park Fanduel" tvg-id="PENNATIONAL" tvg-logo="https://extrabetamerica.imgix.net/c67201846bfd47c09512d7cc610b5a58.jpg" group-title="Simulcast",Fairmount Park Fanduel
-ws://38.114.122.109:8081/live/fanduel
-#EXTINF:0 CUID="730" tvg-chno="null" tvg-name="Gulfstream Park" tvg-id="SANTA ANITA" tvg-logo="http://imgfz.com/i/WNmqica.jpeg" group-title="Simulcast",Gulfstream Park
-srt://38.114.122.109:2072
-#EXTINF:0 CUID="732" tvg-chno="null" tvg-name="Hawthorne Race Course" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lSXla33ylvUASnAaavDDFeALLFwtJC2xGivh5qu74n2w=s160-c-k-c0x00ffffff-no-rj" group-title="Simulcast",Hawthorne Race Course
-ws://38.114.122.109:8081/live/hawthorne
-#EXTINF:0 CUID="734" tvg-chno="null" tvg-name="Indiana Grand Racing and Casino" tvg-id="fort eric domingo" tvg-logo="http://imgfz.com/i/HI4cNzd.jpeg" group-title="Simulcast",Indiana Grand Racing and Casino
-ws://38.114.122.109:8081/live/indianapolis1
-#EXTINF:0 CUID="737" tvg-chno="null" tvg-name="Laurel Park" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/IBdKSxo.jpeg" group-title="Simulcast",Laurel Park
-srt://38.114.122.109:2071
-#EXTINF:0 CUID="741" tvg-chno="null" tvg-name="Los Alamitos QH" tvg-id="meadowns sabado y domingo" tvg-logo="http://imgfz.com/i/MKFjB0e.jpeg" group-title="Simulcast",Los Alamitos QH
-ws://38.114.122.109:8081/live/los_alamitos
-#EXTINF:0 CUID="742" tvg-chno="null" tvg-name="Los Alamitos TB" tvg-id="meadowns sabado y domingo" tvg-logo="http://imgfz.com/i/MKFjB0e.jpeg" group-title="Simulcast",Los Alamitos TB
-ws://38.114.122.109:8081/live/los_alamitos_tb
-#EXTINF:0 CUID="746" tvg-chno="null" tvg-name="Mountaineer Casino" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/hRsw0KZ.png" group-title="Simulcast",Mountaineer Casino
-ws://38.114.122.109:8081/live/mountaineer
-#EXTINF:0 CUID="747" tvg-chno="null" tvg-name="Parx Racing" tvg-id="CHARLESTON" tvg-logo="http://imgfz.com/i/2ahXiEs.jpeg" group-title="Simulcast",Parx Racing
-ws://38.114.122.109:8081/live/parx_racing
-#EXTINF:0 CUID="748" tvg-chno="null" tvg-name="Penn National Race Course" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/HZG9S2h.jpeg" group-title="Simulcast",Penn National Race Course
-ws://38.114.122.109:8081/live/penn_national
-#EXTINF:0 CUID="751" tvg-chno="null" tvg-name="Presque Isle Downs" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/tDLUaV9.jpeg" group-title="Simulcast",Presque Isle Downs
-ws://38.114.122.109:8081/live/presque_isle_downs
-#EXTINF:0 CUID="1129" tvg-chno="null" tvg-name="Palingreide" tvg-id="PENNATIONAL" tvg-logo="https://yt3.googleusercontent.com/ImRcdxh5_5llGBIhfhUyb9APikMGPXStv3RAuHp0u-7zEjV0nh6Zi3_3WzxxEdoDzksmOlkqePo=s160-c-k-c0x00ffffff-no-rj" group-title="Simulcast",Palingreide
-ws://38.114.122.109:8081/live/plainridge
-#EXTINF:0 CUID="753" tvg-chno="null" tvg-name="Remington Park" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/qLV9Dtk.jpeg" group-title="Simulcast",Remington Park
-ws://38.114.122.109:8081/live/remington_park
-#EXTINF:0 CUID="1211" tvg-chno="null" tvg-name="Santa Anita Park" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/0usJTNp.jpeg" group-title="Simulcast",Santa Anita Park
-ws://38.114.122.109:8081/live/santa_anita
-#EXTINF:0 CUID="756" tvg-chno="null" tvg-name="pleasanton" tvg-id="pleasanton" tvg-logo="http://imgfz.com/i/cK8hziu.png" group-title="Simulcast",pleasanton
-ws://38.114.122.109:8081/live/pleasanton
-#EXTINF:0 CUID="765" tvg-chno="null" tvg-name="Turf Paradise" tvg-logo="https://www.americasbestracing.net/s3/files/styles/small_thumbnail_16_9/public/track/Unknown.jpeg?itok=D_xG3kK8" group-title="Simulcast",Turf Paradise
-ws://38.114.122.109:8081/live/turf_paradise
-#EXTINF:0 CUID="767" tvg-chno="null" tvg-name="Will Rogers Downs." tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/nM18Ilo.jpeg" group-title="Simulcast",Will Rogers Downs.
-ws://38.114.122.109:8081/live/will_rogers_downs
-#EXTINF:0 CUID="768" tvg-chno="null" tvg-name="Woodbine Racetrack" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/WCSpjk8.jpeg" group-title="Simulcast",Woodbine Racetrack
-srt://38.114.122.109:2079
-#EXTINF:0 CUID="1498" tvg-chno="null" tvg-name="CAPITAL OTB SRT" tvg-logo="http://imgfz.com/i/8p9SvaH.png" group-title="Simulcast",CAPITAL OTB SRT
-srt://38.114.122.109:2070
-#EXTINF:0 CUID="1504" tvg-chno="null" tvg-name="TVG1 SRT" tvg-logo="http://imgfz.com/i/R6tfb8C.png" group-title="Simulcast",TVG1 SRT
-srt://38.114.122.109:2100
-#EXTINF:0 CUID="1505" tvg-chno="null" tvg-name="TVG2 SRT" tvg-logo="http://imgfz.com/i/R6tfb8C.png" group-title="Simulcast",TVG2 SRT
-srt://38.114.122.109:2170
-#EXTINF:0 CUID="1515" tvg-chno="null" tvg-name="TVG1 WS" tvg-logo="http://imgfz.com/i/R6tfb8C.png" group-title="Simulcast",TVG1 WS
+#EXTM3U
+#EXTINF:-1,acueduct
+ws://38.114.122.109:8081/live/aqueduct
+#EXTINF:-1,acueduct
 ws://38.114.122.109:8081/live/capital1
-#EXTINF:0 CUID="1516" tvg-chno="null" tvg-name="TVG1111WS" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/WCSpjk8.jpeg" group-title="Simulcast",TVG1111WS
+#EXTINF:-1,acueduct
 ws://38.114.122.109:8081/tvg/TVG111
-#EXTINF:0 CUID="1517" tvg-chno="null" tvg-name="Will Rogers Downs.WSS TEST" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/nM18Ilo.jpeg" group-title="Simulcast",Will Rogers Downs.WSS TEST
-ws://38.114.122.109:8081/live/capital1

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,acueduct
-ws://38.114.122.109:8081/live/aqueduct
+rtsp://38.114.122.109:554/live/capital1
 #EXTINF:-1,capital
 ws://38.114.122.109:8081/live/capital1
 #EXTINF:-1,tvg1

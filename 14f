@@ -1,7 +1,13 @@
-#EXTM3U
-#EXTINF:-1,acueduct
-rtsp://38.114.122.109:554/live/capital1
-#EXTINF:-1,capital
-ws://38.114.122.109:8081/live/capital1
-#EXTINF:-1,tvg1
-ws://38.114.122.109:8081/tvg/TVG111
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL1" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL1
+https://3.trstream01.xyz/canal6/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL2" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL2
+https://3.trstream01.xyz/canal2/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL3" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL3
+https://5.trstream01.xyz/canal3/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL4" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL4
+https://2.trstream01.xyz/canal4/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL5" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL5
+https://5.trstream01.xyz/canal6/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL6" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL6
+https://2.trstream01.xyz/canal6/stream.m3u8

@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U max-conn="2" 
 #EXTINF:0 CUID="1503" tvg-chno="null" tvg-name="Acueduct (srt)" tvg-id="acueduct" tvg-logo="http://imgfz.com/i/itgwz0O.jpeg" group-title="Simulcast",Acueduct (srt)
 srt://38.114.122.109:2079
 #EXTINF:0 CUID="717" tvg-chno="null" tvg-name="Charles Town Races (srt)" tvg-id="laurel" tvg-logo="https://yt3.googleusercontent.com/Y6f0QBldbNISIDb-02Qoa5t4ml95WYABrTpzrAsyTBVCtnZnbCud_-Wr4TfRlv0aNLoruZbkzw=s160-c-k-c0x00ffffff-no-rj" group-title="Simulcast",Charles Town Races (srt)

@@ -6,6 +6,12 @@ rtmp://38.114.122.109:1935/tvg/TVG111
 rtsp://38.114.122.109:554/tvg/TVG111
 #EXTINF:0, Altamirano
 ws://38.114.122.109:8081/tvg/TVG111
+#EXTINF:0, TVG SRT
+srt://38.114.122.109:2100
+#EXTINF:-1, Altamirano2 WSS
+ws://38.114.122.109:8081/tvg/TVG111
 #EXTINF:-1 tvg-id="EPG123.64230.schedulesdirect.org" tvg-logo="http://eltigre-catv.com/iptv/logos/dw.png",Dw Espanol
 http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EPG123.64230.schedulesdirect.org" tvg-logo="http://eltigre-catv.com/iptv/logos/dw.png",WSS TVG
+ws://38.114.122.109:8081/tvg/TVG111
 

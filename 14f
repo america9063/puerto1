@@ -54,19 +54,8 @@ srt://38.114.122.109:2100
 #EXTINF:0 CUID="1505" tvg-chno="null" tvg-name="TVG2 SRT" tvg-logo="http://imgfz.com/i/R6tfb8C.png" group-title="Simulcast",TVG2 SRT
 srt://38.114.122.109:2170
 #EXTINF:0 CUID="1515" tvg-chno="null" tvg-name="TVG1 WS" tvg-logo="http://imgfz.com/i/R6tfb8C.png" group-title="Simulcast",TVG1 WS
-ws://38.114.122.109:8081/tvg/TVG111
+ws://38.114.122.109:8081/live/capital1
 #EXTINF:0 CUID="1516" tvg-chno="null" tvg-name="TVG1111WS" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/WCSpjk8.jpeg" group-title="Simulcast",TVG1111WS
 ws://38.114.122.109:8081/tvg/TVG111
 #EXTINF:0 CUID="1517" tvg-chno="null" tvg-name="Will Rogers Downs.WSS TEST" tvg-id="PENNATIONAL" tvg-logo="http://imgfz.com/i/nM18Ilo.jpeg" group-title="Simulcast",Will Rogers Downs.WSS TEST
-ws://38.114.122.109:8081/live/will_rogers_downs
-#EXTINF:0 CUID="1506" tvg-chno="null" tvg-name="NHLTV" tvg-logo="http://imgfz.com/i/CgfjYtz.jpeg" group-title="Deportes",NHLTV
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="1512" tvg-chno="null" tvg-name="Espn" tvg-logo="http://imgfz.com/i/Pg9uJAN.jpeg" group-title="Deportes",Espn
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/38800
-#EXTINF:0 CUID="1511" tvg-chno="null" tvg-name="Espn 3" tvg-logo="http://imgfz.com/i/Pg9uJAN.jpeg" group-title="Deportes",Espn 3
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16725
-#EXTINF:0 CUID="1513" tvg-chno="null" tvg-name="Espn 2" tvg-logo="http://imgfz.com/i/Pg9uJAN.jpeg" group-title="Deportes",Espn 2
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/16716
-#EXTINF:0 CUID="1514" tvg-chno="null" tvg-name="Espn 4" tvg-logo="http://imgfz.com/i/Pg9uJAN.jpeg" group-title="Deportes",Espn 4
-http://ggrrth.htvsat.info:8880/287994017b71/287994017b71/38801
-
+ws://38.114.122.109:8081/live/capital1

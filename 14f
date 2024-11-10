@@ -1,9 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL1 rtsp" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL1
-rtsp://38.114.122.109:554/live/capital1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNELts" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL3
 http://38.114.122.109:8081/live/capital1/mpeg.2ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL wss" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL5
 ws://38.114.122.109:8081/live/capital1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNE srt" tvg-logo="https://americansimulcast.com/wp-content/uploads/2023/04/My-project-1-58.png" group-title="(no group)",CHANNEL6
-srt://38.114.122.109:2070
